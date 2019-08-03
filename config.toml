@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-za"
+title = "Feminism and Freedom"
+
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Activities"
+    url = "/activities/"
+    weight = 2
+
+[[menu.main]]
+    name = "Readings"
+    url = "/readings/"
+    weight = 3
+
+[params]
+  homepage_button_link = '/activities/'
+  homepage_button_text = 'Start'
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
