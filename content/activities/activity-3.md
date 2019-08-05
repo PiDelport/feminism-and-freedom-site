@@ -12,7 +12,7 @@ This activity will help us to recap our work from Module 1
 (_Contemporary Challenges to Freedom_) on analysing the
 structure of paragraphs and provide a bridge to this module
 (_Feminism and Freedom_) by discussing components of an
-argument which are (a) claims (b) assumptions (c) evidence (d)
+argument which are (a) claims (b) assumptions \(c) evidence (d)
 conclusions.
 
 # About
