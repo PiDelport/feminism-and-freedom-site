@@ -22,7 +22,7 @@ now feminism is functioning as both with a vigor we haven’t seen in a
 while.
 
 One useful way of looking at the feminist movement is through what is
-know as the waves metaphor. Despite its many critics, the waves of
+known as the waves metaphor. Despite its many critics, the waves of
 feminism is a useful tool for understanding feminism today. It is a
 useful way of linking the women’s movement of the ’60s and ’70s to the
 women’s movement of the suffragettes. It is a useful way to describe
