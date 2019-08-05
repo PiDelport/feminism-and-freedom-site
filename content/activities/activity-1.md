@@ -20,9 +20,9 @@ begun. Globally, there is a debate about whether what we see is
 a backlash against hard-won gains or the unravelling of partial
 democracies. Those who speak of a backlash borrow
 extensively from Susan Faludi who in 1991, identified a
-backlash as “a counterassault on women’s rights… an attempt to
+backlash as *“a counterassault on women’s rights… an attempt to
 retract the handful of small and hard-won victories that the
-feminist movement did manage to achieve for women”. In this
+feminist movement did manage to achieve for women”*. In this
 activity, we use this concept as springboard for understanding
 the position of women in a world losing freedoms through
 authoritarianism, inequality and technology. This activity uses
