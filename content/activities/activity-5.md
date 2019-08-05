@@ -31,7 +31,7 @@ And it is useful in understanding some of complexity to the movement
 through gender equality and a focus on the individual battles women
 face.
 
-Naturally, it is not a perfect metaphor. Some have argued that its
+Naturally, it is not a perfect metaphor. Some have argued that it's
 historically misleading and not helpful politically, as it suggests that
 gender activism has been for the most part unified around one set of
 ideas, and that set of ideas can be called feminism. Others have called
