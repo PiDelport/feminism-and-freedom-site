@@ -76,10 +76,10 @@ that might change these relations for the better.
 ## Perspective 6
 
 Feminism is a movement which seeks to place women above
-men and trample men into the dirt. Feminists will tell you that
-their aim is to bring about equality, but equality ceased to be the
+men and trample men into the dirt. Feminists will tell you that
+their aim is to bring about equality, but equality ceased to be the
 aim of feminism years ago. Women are now (and have been for
-at least 5-10 years) given exactly the same treatment in every
+at least 5-10 years) given exactly the same treatment in every
 area of life as men. Women / Feminists now wish to take over,
 which is far from equality.
 
@@ -87,7 +87,7 @@ which is far from equality.
 
 We need to reclaim feminism from those who use it as a political
 tool; from those who use gender politics to hide their
-true motivations. Feminism needs to work for all of us. A
+true motivations. Feminism needs to work for all of us. A
 feminism that does not understand intersectionality, care about
 working class issues, or distinguish between men being in
 power and patriarchy, is not a feminism we need.
