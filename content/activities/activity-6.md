@@ -209,7 +209,7 @@ biological, and the later a social construct that varies culture-to-culture and 
 Whereas the first wave of feminism was generally propelled by middle class,
 Western, cisgender, white women, the second phase drew in women of color and
 developing nations, seeking sisterhood and solidarity, claiming "Women's struggle is
-class struggle." In contrast to the first-wavers, the movement benefitted from the
+class struggle." In contrast to the first-wavers, the movement benefited from the
 involvement of far more organisations, encompassing a broad spectrum of political
 beliefs and ideologies, taking on many forms and included the Black Civil Rights
 Movement, Anti Vietnam Movement, Chicano Rights Movement, Asian-American
