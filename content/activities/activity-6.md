@@ -116,7 +116,7 @@ early 20th century. A common goal of equality for all women, regardless of race,
 established. [Estelle Freedman] discusses the issue of race in early feminism in her
 book, *[No Turning Back: The History of Feminism and the Future of Women]*.
 
-[suffragists]: http://www.suffragist.com/timeline.htm
+[suffragists]: https://web.archive.org/web/20151219050357/http://www.suffragist.com/timeline.htm
 [abolitionists]: http://www.loc.gov/exhibits/african/afam005.html
 [Estelle Freedman]: http://ebf.stanford.edu/
 [No Turning Back: The History of Feminism and the Future of Women]: http://www.amazon.com/No-Turning-Back-History-Feminism/dp/0345450531
