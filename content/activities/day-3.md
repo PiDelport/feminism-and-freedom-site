@@ -45,3 +45,10 @@ This day comprises the following activities:
 * Activity 9: The feminist challenge: How feminism expands ideas of freedom
 * Activity 10: A fireside chat: The ‘Woman Question’ in the International
   Women’s Organisations 1888 - 1919
+
+# Presentation
+
+* *Freedom and the Feminist Challenge* (as [PDF] or [PowerPoint])
+
+[PDF]: /documents/day-3-freedom-and-the-feminist-challenge.pdf
+[PowerPoint]: /documents/day-3-freedom-and-the-feminist-challenge.pptx
