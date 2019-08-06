@@ -122,4 +122,4 @@ today.
 >   movement.
 > * Fraser, Bhattacharya, Arruzza (2018). Feminism
     for the 99%: A Manifesto
-> * Bell Hooks (2004). Understanding Patriarchy
+> * bell hooks (2004). Understanding Patriarchy
