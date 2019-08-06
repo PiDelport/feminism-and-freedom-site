@@ -46,8 +46,9 @@ Get ready to report back to plenary.
 **Group 1: Social reproduction theory**
 
 <u>Reading</u>: Tithi Battacharya (2017) adapted notes from
-the interview “Understanding Social Reproduction
-Theory”
+the interview [“Understanding Social Reproduction Theory”][social-reproduction]
+
+[social-reproduction]: {{< relref "understanding-social-reproduction-theory" >}}
 
 **Group 2: Personal is political!**
 
