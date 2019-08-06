@@ -76,9 +76,10 @@ Introducing Feminism: A Graphic Guide page 137 - 146
 
 <u>Reading</u>: Judy Kimble and Elaine Unterhalter
 [“'We Opened the Road for You, You Must Go Forward': ANC Women's Struggles, 1912-1982”][opened]
-*Feminist Review*, No. 12 (1982), page 11 – 14.
+([PDF]) *Feminist Review*, No. 12 (1982), page 11 – 14.
 
 [opened]: {{< relref "we-opened-the-road-for-you" >}}
+[PDF]: /documents/we-opened-the-road-for-you.pdf
 
 **Group 5:**  <!-- TODO: Revisit? -->
 
