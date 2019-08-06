@@ -36,5 +36,5 @@ theme = "hugo-whisper-theme"
   homepage_button_text = 'Start'
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/images/logos/logo-black.png"
+      standard = "/images/logos/logo-black.png"
