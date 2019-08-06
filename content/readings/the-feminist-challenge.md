@@ -122,6 +122,6 @@ Women have experiences that are gendered and these experiences, alongside
 experiences shaped by race and class, inform women’s participation in national
 liberation politics.
 
-## Africans don’t do gender?
+<!-- ## Africans don’t do gender? -->
 
 <!-- TODO: Add paragraph? -->
