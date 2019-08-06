@@ -84,8 +84,11 @@ readings/information if required.
 * Donna Goodman (Undated). ‘The untold side of second wave
   feminism: a multinational, politically diverse movement.’
 * Shireen Hassim (2006). Women's Organisations and Democracy in
-  South Africa: Contesting Authority, Chapter 2 ‘The Emergence of
-  Women as a Political Constituency: 1979-1990’
+  South Africa: Contesting Authority, Chapter 2
+  ‘[The Emergence of Women as a Political Constituency: 1979-1990][hassim-chapter-2]’
+
+<!-- Chapter 2 starts at PDF page 62. -->
+[hassim-chapter-2]: /documents/womens-organizations-and-democracy-in-south-africa-book.pdf#page=62
 
 ## Groups 5 & 6: 3ʳᵈ Wave Readings
 
