@@ -105,7 +105,8 @@ readings/information if required.
 * Charlotte Kroløkke and Anne Scott Sørenson (2005).
   [Three Waves of Feminism: From Suffragettes to Grrls][feminism-suffragettes-grrls]
   (ONLY the section on the 3ʳᵈ wave.)
-* Shamim Meer (2013). Feminist contributions, challenges and claims
+* Shamim Meer (2013).
+  [Feminist contributions, challenges and claims][contributions-challenges-claims]
 
 [Constance Grady]: https://www.vox.com/authors/constance-grady
 
@@ -152,3 +153,5 @@ responses safe!***
 
 [untold-side-second-wave]: https://liberationschool.org/feminism-and-the-mass-movements-1960-1990/
 [untold-side-second-wave-pdf]: /documents/untold-side-of-second-wave-feminism.pdf
+
+[contributions-challenges-claims]: /documents/feminist-contributions-challenges-claims.pdf
