@@ -33,8 +33,8 @@ freedom identified in the previous activity.
 
 We suggest you follow these steps:
 
-1. Start by reading the introduction to *The Feminist Challenge
-Handout* and the specific section assigned to your group. Next,
+1. Start by reading the introduction to *[The Feminist Challenge]*
+handout and the specific section assigned to your group. Next,
 Study the resource pack and discuss the question: “what key ideas
 about freedom does feminism bring to the fore?”
 
