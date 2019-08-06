@@ -65,8 +65,7 @@ Feminism and the Combahee River Collective”,
 Monthly Review Press.
 
 Extracts from Cathia Janainati and Judy Groves,
-Introducing Feminism: A Graphic Guide page 137 -
-146
+Introducing Feminism: A Graphic Guide page 137 - 146
 
 **Group 4: Women’s liberation is not a by-product of national liberation**
 
