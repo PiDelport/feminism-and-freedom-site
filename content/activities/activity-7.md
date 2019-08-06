@@ -43,7 +43,11 @@ the group work.
 
 > 📖️ Please refer to the reading pack
 >
-> * Oh freedom! by The Golden Gospel Singers
-> * Freedom is a constant struggle! Civil Rights Movement
-> * Mayibuye! by Miriam Makeba
-> * Redemption Songs by Bob Marley
+> * [Oh freedom!]({{< relref "oh-freedom-lyrics" >}})
+>   by The Golden Gospel Singers
+> * [Freedom is a constant struggle!]({{< relref "freedom-is-a-constant-struggle-lyrics" >}})
+>   Civil Rights Movement
+> * [Mayibuye!]({{< relref "mayibuye" >}})
+>   by Miriam Makeba
+> * [Redemption Song]({{< relref "redemption-song" >}})
+>   by Bob Marley
