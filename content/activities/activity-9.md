@@ -60,9 +60,11 @@ Digital Age”
 
 <u>Readings</u>:
  
-Keeanga-Yamahtta Taylor (2019), “Black
-Feminism and the Combahee River Collective”,
+Keeanga-Yamahtta Taylor (2019),
+[“Black Feminism and the Combahee River Collective”][combahee],
 Monthly Review Press.
+
+[combahee]: {{< relref "black-feminism-and-the-combahee-river-collective" >}}
 
 Extracts from Cathia Janainati and Judy Groves,
 Introducing Feminism: A Graphic Guide page 137 - 146
