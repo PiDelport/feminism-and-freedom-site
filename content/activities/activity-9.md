@@ -62,7 +62,7 @@ Digital Age”][personal-political]
 **Group 3: Race matters, so does gender and class!**
 
 <u>Readings</u>:
- 
+
 Keeanga-Yamahtta Taylor (2019),
 [“Black Feminism and the Combahee River Collective”][combahee],
 Monthly Review Press.

@@ -11,7 +11,7 @@ weight: 902
 
 **By Frances Rogan and Shelley Budgeon, 9 August 2018[^1]**
 
-[^1]: This is an adapted and shortened version of the paper. 
+[^1]: This is an adapted and shortened version of the paper.
 
 The slogan, ‘the personal is political’, has its origins in a paper of the same
 title authored by Carol Hanisch. It was published in 1970 as part of a
@@ -21,7 +21,7 @@ Movement groups who were emerging out of existing radical movements such as the
 Civil Rights movement, the Anti-Vietnam War movement, and Old and New Left
 groups. Because these movements tended to be male-dominated, the specificity of
 women’s oppression was not deemed relevant to the political struggles these
-groups defined as their focus. 
+groups defined as their focus.
 
 As women from these movements began to organise and name their oppression,
 Hanisch recounts how the women within the Women’s Liberation Movement were
@@ -31,7 +31,7 @@ and abortion’. Their concerns were regarded as *isolated* ‘personal’ issue
 addressed through individual initiative, and as such, not the proper focus for
 radical political organisations associated with existing leftist movements. The
 practice of consciousness raising (women gathering together to discuss their
-own oppression) was condemned as mere ‘personal therapy’ or ‘navel gazing’. 
+own oppression) was condemned as mere ‘personal therapy’ or ‘navel gazing’.
 
 A number of linked threads, which run through Hanisch’s essay, warrant
 unpacking as they form the basis for a fundamental feminist theory of the
@@ -56,7 +56,7 @@ politics of the Women’s Liberation Movement. Without an adequate theory of
 power, grasping the limits of liberal theory was not possible. Hence,
 understanding that women’s exclusion was the product of the essentially
 *patriarchal* constitution of liberal thought was a critical element in
-developing feminist critique. 
+developing feminist critique.
 
 Carole Pateman’s 1983 classic essay begins with the assertion that ‘the
 separation between the private and the public is central to almost two
@@ -112,7 +112,7 @@ drawing attention to the fact that the field of what is usually considered
 political is a created one. Politics, in any and every sense, is about power,
 and it is as much about the power that men, wittingly or unwittingly, exercise
 over women as it is about the power that presidents and prime ministers wield
-over nations. 
+over nations.
 
 The insight that laid bare the power relations governing ‘private’ experience
 led to more nuanced understandings of what types of activities could form part

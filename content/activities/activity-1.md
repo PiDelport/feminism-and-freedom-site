@@ -43,7 +43,7 @@ freedoms.
     resources provided, prepare to present a summary and
     display of your case study example to the rest of the group.
     Your presentation should not be more than 3-5 minutes.
-    
+
     Remember, the other groups are not familiar with your case
     study. You have ***45 minutes*** for the group work.
 
@@ -55,7 +55,7 @@ freedoms.
 
     * Based on your case studies what are the particular
       experiences of women in the world today?
-    
+
     * What is noticeable about women’s freedoms today in the
       global context?
 
