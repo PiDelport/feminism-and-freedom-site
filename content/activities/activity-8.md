@@ -26,9 +26,11 @@ These conceptions of freedoms are:
 # Task
 
 Working in <u>**4 groups**</u>, you will be provided with one of the four
-Freedom Declarations’. These declarations outline visions of freedom
+'[Freedom Declarations]'. These declarations outline visions of freedom
 as well as the struggles that brought these conceptions of freedom to
 the fore.
+
+[Freedom Declarations]: {{< relref "readings/four-conceptions-of-freedom" >}}
 
 In your group, carefully read the Freedom Declaration you have been
 allocated and then answer the following questions:
@@ -54,7 +56,7 @@ and linking the presentation to the charters produced.
 
 > 📖️ Please refer to the reading pack
 >
-> * Freedom as political rights and equality
-> * Freedom with social and economic dimensions
-> * Freedom as emancipation from slavery
-> * Freedom as independence from colonial rule
+> * [Freedom as political rights and equality]({{< relref "rights-and-equality" >}})
+> * [Freedom with social and economic dimensions]({{< relref "social-and-economic-freedom" >}})
+> * [Freedom as emancipation from slavery]({{< relref "freedom-and-slave-emancipation" >}})
+> * [Freedom as independence from colonial rule]({{< relref "freedom-as-independence" >}})
