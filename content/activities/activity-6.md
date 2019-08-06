@@ -336,8 +336,8 @@ beauty for themselves as subjects, not as objects of a sexist patriarchy. They
 developed a rhetoric of mimicry, which appropriated derogatory terms like "slut" and
 "bitch" in order to subvert sexist culture and deprive it of verbal weapons. The web is
 an important tool of "girlie feminism." E-zines have provided "cybergrrls" and
-"netgrrls" another kind of women-only space. Grrl-feminism tends to be global, multi-
-cultural, and it shuns simple answers or artificial categories of identity, gender, and
+"netgrrls" another kind of women-only space. Grrl-feminism tends to be global,
+multi-cultural, and it shuns simple answers or artificial categories of identity, gender, and
 sexuality. Its transversal politics means that differences such as those of ethnicity,
 class, sexual orientation, etc. are celebrated and recognised as dynamic, situational,
 and provisional.
