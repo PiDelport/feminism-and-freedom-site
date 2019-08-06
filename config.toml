@@ -21,6 +21,17 @@ theme = "hugo-whisper-theme"
     weight = 3
 
 [params]
+  # Which sections to render as main sections in themes.
+  #
+  # Hugo defaults to detecting a single main section:
+  # tell it to include all our main sections.
+  #
+  # https://gohugo.io/functions/where/#mainsections
+  # https://github.com/gohugoio/hugo/issues/3206
+  # https://github.com/rdwatters/hugo-docs-concept/issues/79
+  #
+  mainSections = ["activities", "readings"]
+
   homepage_button_link = '/activities/'
   homepage_button_text = 'Start'
 
