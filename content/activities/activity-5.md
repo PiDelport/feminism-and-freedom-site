@@ -73,9 +73,10 @@ readings/information if required.
 * Charlotte Kroløkke and Anne Scott Sørenson (2005). Three Waves
   of Feminism: From Suffragettes to Grrls (ONLY the section on the
   1ˢᵗ wave.)
-* South African History Online (2019). The History of Women’s
-  Struggle in South Africa – from the start of the 20ᵗʰ Century to the
-  1956 Women’s March
+* South African History Online (2019).
+  [The History of Women’s Struggle in South Africa][history-women-sa]
+  (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
+   – from the start of the 20ᵗʰ Century to the 1956 Women’s March
 
 ## Groups 3 & 4: 2ⁿᵈ Wave Readings:
 
@@ -125,7 +126,13 @@ responses safe!***
 
 > 📖️ Please refer to the reading pack
 >
-> * History of Women’s struggle in South Africa (SA History Online)
+> * [History of Women’s struggle in South Africa][history-women-sa]
+    (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
+    (SA History Online)
 > * Srila Roy (Undated) Women’s Movements in the Global South
 > * Combahee River Collective Statement (1997)
 > * Samora Machel (1973) Women’s Liberation is Essential for the Revolution
+
+[history-women-sa]: https://www.sahistory.org.za/article/history-womens-struggle-south-africa
+[history-women-sa-pdf]: /documents/history-womens-struggle-south-africa.pdf
+[history-women-sa-docx]: /documents/history-womens-struggle-south-africa.docx
