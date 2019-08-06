@@ -68,8 +68,10 @@ readings/information if required.
 
 ## Groups 1 and 2: 1ˢᵗ Wave Readings:
 
-* [Constance Grady] \(2018). An adaption of her Vox article ‘The
-  waves of feminism’ (ONLY the section on the 1ˢᵗ wave.)
+* [Constance Grady] \(2018). An adaption
+  (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
+  of her Vox article ‘[The waves of feminism][waves-of-feminism]’
+  (ONLY the section on the 1ˢᵗ wave.)
 * Charlotte Kroløkke and Anne Scott Sørenson (2005). Three Waves
   of Feminism: From Suffragettes to Grrls (ONLY the section on the
   1ˢᵗ wave.)
@@ -80,8 +82,10 @@ readings/information if required.
 
 ## Groups 3 & 4: 2ⁿᵈ Wave Readings:
 
-* [Constance Grady] \(2018). An Adaption of her Vox article ‘The
-  waves of feminism’) ONLY the section on the 2ⁿᵈ wave.)
+* [Constance Grady] \(2018). An adaption
+  (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
+  of her Vox article ‘[The waves of feminism][waves-of-feminism]’
+  (ONLY the section on the 2ⁿᵈ wave.)
 * Donna Goodman (Undated). ‘The untold side of second wave
   feminism: a multinational, politically diverse movement.’
 * Shireen Hassim (2006). Women's Organisations and Democracy in
@@ -93,8 +97,10 @@ readings/information if required.
 
 ## Groups 5 & 6: 3ʳᵈ Wave Readings
 
-* [Constance Grady] \(2018). An Adaption of her Vox article ‘The
-  waves of feminism’ (ONLY the section on the 3ʳᵈ wave.)
+* [Constance Grady] \(2018). An adaption
+  (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
+  of her Vox article ‘[The waves of feminism][waves-of-feminism]’
+  (ONLY the section on the 3ʳᵈ wave.)
 * Charlotte Kroløkke and Anne Scott Sørenson (2005). Three Waves
   of Feminism: From Suffragettes to Grrls (ONLY the section on the
   3ʳᵈ wave.)
@@ -136,3 +142,7 @@ responses safe!***
 [history-women-sa]: https://www.sahistory.org.za/article/history-womens-struggle-south-africa
 [history-women-sa-pdf]: /documents/history-womens-struggle-south-africa.pdf
 [history-women-sa-docx]: /documents/history-womens-struggle-south-africa.docx
+
+[waves-of-feminism]: https://www.vox.com/2018/3/20/16955588/feminism-waves-explained-first-second-third-fourth
+[waves-of-feminism-pdf]: /documents/waves-of-feminism-explained.pdf
+[waves-of-feminism-doxc]: /documents/waves-of-feminism-explained.doxc
