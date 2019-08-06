@@ -71,6 +71,9 @@ end of this session.
 
 > 📖️ Please refer to the reading pack
 >
-> * Pumla Gqola (2015) Rape, Chapter 4, ‘The Female Fear Factory’.
-> * Rebecca Solnit (2014) Men Explain Things to Me, Chapter 2 ‘The Longest War’.
-> * Desiree Lewis (2008) ‘South Africa, African Feminism and the Challenge of Solidarity’.
+> * Pumla Gqola (2015) Rape, Chapter 4,
+    ‘[The Female Fear Factory](/documents/the-female-fear-factory.pdf)’.
+> * Rebecca Solnit (2014) Men Explain Things to Me, Chapter 2
+    ‘[The Longest War](/documents/the-longest-war.pdf)’.
+> * Desiree Lewis (2008)
+    ‘[South Africa, African Feminism and the Challenge of Solidarity](/documents/african-feminism.pdf)’.
