@@ -75,7 +75,7 @@ Opened the Road for You, You Must Go Forward':
 ANC Women's Struggles, 1912-1982”, *Feminist
 Review*, No. 12 (1982), page 11 – 14.
 
-**Group 5:**
+**Group 5:**  <!-- TODO: Revisit? -->
 
 Be mindful of the fact that participants in other groups were dealing
 with different questions. They rely on you to present your case in a
@@ -205,4 +205,4 @@ liberation politics.
 
 ## Africans don’t do gender?
 
-<!-- XXX: No content? -->
+<!-- TODO: Add paragraph? -->
