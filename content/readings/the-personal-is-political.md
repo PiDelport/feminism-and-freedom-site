@@ -42,6 +42,8 @@ public realm** (iii) **political action** (iv) **and everyday experiences**.
 
 ![](/images/banner-with-seven-demands.jpg)
 
+<!-- Image source: https://sites.tufts.edu/fletchergender/2016/11/02/international-feminist-politics-and-activism-when-the-personal-is-political-is-international/ -->
+
 ## Second-wave Fundamentals
 
 Feminism, like liberal political theory, endorsed the tenet which holds
