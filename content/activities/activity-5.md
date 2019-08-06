@@ -55,6 +55,17 @@ consideration in the next task.
 
 ***We will have 45 minutes for concluding task 1***
 
+## Videos: All About Women 2018
+
+Barbara Caine on first wave feminism:
+{{< youtube HWp-DoFnL6Y >}}
+
+Anne Summers on second wave feminism:
+{{< youtube m7uGqh0EvIo >}}
+
+Rebecca Walker on third wave feminism:
+{{< youtube dQKgJ1PJzBs >}}
+
 # Task 2
 
 For this task you will be divided into 6 <u>**reading groups**</u> to explore a
