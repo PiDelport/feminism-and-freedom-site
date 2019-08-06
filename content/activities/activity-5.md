@@ -72,9 +72,9 @@ readings/information if required.
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
   of her Vox article ‘[The waves of feminism][waves-of-feminism]’
   (ONLY the section on the 1ˢᵗ wave.)
-* Charlotte Kroløkke and Anne Scott Sørenson (2005). Three Waves
-  of Feminism: From Suffragettes to Grrls (ONLY the section on the
-  1ˢᵗ wave.)
+* Charlotte Kroløkke and Anne Scott Sørenson (2005).
+  [Three Waves of Feminism: From Suffragettes to Grrls][feminism-suffragettes-grrls]
+  (ONLY the section on the 1ˢᵗ wave.)
 * South African History Online (2019).
   [The History of Women’s Struggle in South Africa][history-women-sa]
   (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
@@ -101,9 +101,9 @@ readings/information if required.
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
   of her Vox article ‘[The waves of feminism][waves-of-feminism]’
   (ONLY the section on the 3ʳᵈ wave.)
-* Charlotte Kroløkke and Anne Scott Sørenson (2005). Three Waves
-  of Feminism: From Suffragettes to Grrls (ONLY the section on the
-  3ʳᵈ wave.)
+* Charlotte Kroløkke and Anne Scott Sørenson (2005).
+  [Three Waves of Feminism: From Suffragettes to Grrls][feminism-suffragettes-grrls]
+  (ONLY the section on the 3ʳᵈ wave.)
 * Shamim Meer (2013). Feminist contributions, challenges and claims
 
 [Constance Grady]: https://www.vox.com/authors/constance-grady
@@ -146,3 +146,5 @@ responses safe!***
 [waves-of-feminism]: https://www.vox.com/2018/3/20/16955588/feminism-waves-explained-first-second-third-fourth
 [waves-of-feminism-pdf]: /documents/waves-of-feminism-explained.pdf
 [waves-of-feminism-doxc]: /documents/waves-of-feminism-explained.doxc
+
+[feminism-suffragettes-grrls]: /documents/three-waves-of-feminism-from-suffragettes-to-grrls.pdf
