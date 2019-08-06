@@ -158,7 +158,7 @@ The notes have been supplemented by two other articles:
 
 * Colin Barker, [Social Reproduction Theory – Going Beyond ‘Capital’]
   (https://www.plutobooks.com/blog/social-reproduction-beyond-marx-capital/)
-* Susan Ferguson, [Social Repropduction: What’s the Big Idea]
+* Susan Ferguson, [Social Reproduction: What’s the Big Idea]
   (https://www.plutobooks.com/blog/social-reproduction-theory-ferguson/)
 
 ![Poster: Childcare is a question of money and class](/images/AD06161-004-childcare-question-of-money-class.jpg)
