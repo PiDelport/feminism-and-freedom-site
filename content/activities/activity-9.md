@@ -53,9 +53,11 @@ the interview [“Understanding Social Reproduction Theory”][social-reproducti
 **Group 2: Personal is political!**
 
 <u>Reading</u>: Frances Rogan and Shelley Budgeon
-(2018) An adaptation of the article “The Personal is
+(2018) An adaptation of the article [“The Personal is
 Political: Assessing Feminist Fundamentals in the
-Digital Age”
+Digital Age”][personal-political]
+
+[personal-political]: {{< relref "the-personal-is-political" >}}
 
 **Group 3: Race matters, so does gender and class!**
 
