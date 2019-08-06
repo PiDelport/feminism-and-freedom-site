@@ -48,7 +48,7 @@ This day comprises the following activities:
 
 # Presentation
 
-* *Freedom and the Feminist Challenge* (as [PDF] or [PowerPoint])
+* *Freedom and the Feminist Challenge* (slides as [PDF] or [PowerPoint])
 
 [PDF]: /documents/day-3-freedom-and-the-feminist-challenge.pdf
 [PowerPoint]: /documents/day-3-freedom-and-the-feminist-challenge.pptx

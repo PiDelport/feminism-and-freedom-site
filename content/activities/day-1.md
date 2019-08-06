@@ -47,7 +47,7 @@ This day comprises the following activities:
 
 # Presentation
 
-* *Introduction: Feminism and Freedom* (as [PDF] or [PowerPoint])
+* *Introduction: Feminism and Freedom* (slides as [PDF] or [PowerPoint])
 
 [PDF]: /documents/day-1-introduction-feminism-and-freedom.pdf
 [PowerPoint]: /documents/day-1-introduction-feminism-and-freedom.pptx
