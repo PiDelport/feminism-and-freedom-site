@@ -44,3 +44,10 @@ This day comprises the following activities:
 * Activity 1: Women and the erosion of freedom
 * Activity 2: Women and freedom in South Africa today
 * Activity 3: Critical skills: Understanding an argument
+
+# Presentation
+
+* *Introduction: Feminism and Freedom* (as [PDF] or [PowerPoint])
+
+[PDF]: /documents/day-1-introduction-feminism-and-freedom.pdf
+[PowerPoint]: /documents/day-1-introduction-feminism-and-freedom.pptx
