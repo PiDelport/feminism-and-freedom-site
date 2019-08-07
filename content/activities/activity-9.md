@@ -86,10 +86,8 @@ Get ready to report back to plenary.
 
 * Judy Kimble and Elaine Unterhalter
   “['We Opened the Road for You, You Must Go Forward': ANC Women's Struggles, 1912-1982]
-  ({{< relref "we-opened-the-road-for-you" >}})”
-  (as [PDF]), *Feminist Review*, No. 12 (1982), page 11 – 14.
-
-[PDF]: /documents/we-opened-the-road-for-you.pdf
+  (https://www.jstor.org/stable/1394879)”,
+  *Feminist Review*, No. 12 (1982), page 11 – 14.
 
 ----
 
