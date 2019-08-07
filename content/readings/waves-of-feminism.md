@@ -1,5 +1,5 @@
 ---
-title: 'Handout: The Feminist Challenge'
+title: 'Handout: Waves of Feminism'
 weight: 600
 ---
 
@@ -8,8 +8,6 @@ weight: 600
 [activity-6]: {{< relref "activity-6#handout" >}}
 
 ----
-
-# Handout: Waves of Feminism
 
 Some would argue that one of the [greatest challenges] to understanding
 feminism may be the fact that the ideology and philosophy informing it have shifted
