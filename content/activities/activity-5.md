@@ -115,6 +115,9 @@ readings/information if required.
   South Africa: Contesting Authority, Chapter 2
   ‘[The Emergence of Women as a Political Constituency: 1979-1990][hassim-chapter-2]’
 
+[untold-side-second-wave]: https://liberationschool.org/feminism-and-the-mass-movements-1960-1990/
+[untold-side-second-wave-pdf]: /documents/untold-side-of-second-wave-feminism.pdf
+
 <!-- Chapter 2 starts at PDF page 62. -->
 [hassim-chapter-2]: /documents/womens-organizations-and-democracy-in-south-africa-book.pdf#page=62
 
@@ -129,6 +132,8 @@ readings/information if required.
   (ONLY the section on the 3ʳᵈ wave.)
 * Shamim Meer (2013).
   [Feminist contributions, challenges and claims][contributions-challenges-claims]
+
+[contributions-challenges-claims]: /documents/feminist-contributions-challenges-claims.pdf
 
 ----
 
@@ -174,8 +179,3 @@ responses safe!***
 [waves-of-feminism-doxc]: /documents/waves-of-feminism-explained.doxc
 
 [feminism-suffragettes-grrls]: /documents/three-waves-of-feminism-from-suffragettes-to-grrls.pdf
-
-[untold-side-second-wave]: https://liberationschool.org/feminism-and-the-mass-movements-1960-1990/
-[untold-side-second-wave-pdf]: /documents/untold-side-of-second-wave-feminism.pdf
-
-[contributions-challenges-claims]: /documents/feminist-contributions-challenges-claims.pdf
