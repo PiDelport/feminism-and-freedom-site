@@ -90,7 +90,7 @@ readings/information if required.
 
 ### Groups 1 and 2: 1ˢᵗ Wave Readings:
 
-* [Constance Grady] \(2018). An adaption
+* Constance Grady (2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
   of her Vox article ‘[The waves of feminism][waves-of-feminism]’
   (ONLY the section on the 1ˢᵗ wave.)
@@ -104,7 +104,7 @@ readings/information if required.
 
 ### Groups 3 & 4: 2ⁿᵈ Wave Readings:
 
-* [Constance Grady] \(2018). An adaption
+* Constance Grady (2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
   of her Vox article ‘[The waves of feminism][waves-of-feminism]’
   (ONLY the section on the 2ⁿᵈ wave.)
@@ -120,7 +120,7 @@ readings/information if required.
 
 ### Groups 5 & 6: 3ʳᵈ Wave Readings
 
-* [Constance Grady] \(2018). An adaption
+* Constance Grady (2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
   of her Vox article ‘[The waves of feminism][waves-of-feminism]’
   (ONLY the section on the 3ʳᵈ wave.)
@@ -130,7 +130,6 @@ readings/information if required.
 * Shamim Meer (2013).
   [Feminist contributions, challenges and claims][contributions-challenges-claims]
 
-[Constance Grady]: https://www.vox.com/authors/constance-grady
 
 In your <u>**reading group**</u>, complete the two readings allocated to your
 group, using the highlighters provided to highlight points that you
