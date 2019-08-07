@@ -69,14 +69,14 @@ consideration in the next task.
 ## Videos: All About Women 2018
 
 Barbara Caine on first wave feminism:
-{{< youtube HWp-DoFnL6Y >}}
+{{< youtube HWp-DoFnL6Y >}} <!-- Barbara Caine on first wave feminism | all about women 2018 -->
 
 Anne Summers on second wave feminism:
-{{< youtube m7uGqh0EvIo >}}
+{{< youtube m7uGqh0EvIo >}} <!-- Anne Summers on second wave feminism | all about women 2018 -->
 
 Rebecca Walker on third wave feminism:
-{{< youtube dQKgJ1PJzBs >}}
-
+{{< youtube dQKgJ1PJzBs >}} <!-- Rebecca Walker on third wave feminism | all about women 2018 -->
+￼
 ## Task 2
 
 For this task you will be divided into 6 <u>**reading groups**</u> to explore a
