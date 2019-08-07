@@ -46,6 +46,8 @@ Prepare to report to plenary.
 
 ***You will have 15 minutes to complete this task***
 
+{{< vimeo 352249393 >}} <!-- #FeminismAndFreedom: Activity 11 - The Gender Trap -->
+
 ## Task 2
 
 The facilitator will make a multi-modal presentation highlighting the
