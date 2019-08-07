@@ -130,6 +130,9 @@ readings/information if required.
 * Shamim Meer (2013).
   [Feminist contributions, challenges and claims][contributions-challenges-claims]
 
+----
+
+## Instructions
 
 In your <u>**reading group**</u>, complete the two readings allocated to your
 group, using the highlighters provided to highlight points that you
