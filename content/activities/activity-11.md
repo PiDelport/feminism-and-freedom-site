@@ -85,5 +85,10 @@ South Africa today.
 
 > 📖️ Please refer to the reading pack
 >
-> * Piantato, G (2016) ‘How has queer theory influenced the ways we think about gender?’,
+> * Piantato, G (2016)
+>   ‘[How has queer theory influenced the ways we think about gender?][queer-theory]’
+>   (as [PDF][queer-theory-pdf]),
 >   Working Paper of Public Health.
+
+[queer-theory]: https://www.researchgate.net/publication/309474236_How_has_queer_theory_influenced_the_ways_we_think_about_gender
+[queer-theory-pdf]: /documents/How_has_queer_theory_influenced_the_ways_we_think_.pdf
