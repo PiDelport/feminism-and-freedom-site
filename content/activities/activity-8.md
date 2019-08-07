@@ -59,6 +59,8 @@ Please refer to the handout for an example of a workers’ charter.
 ***You will have 1 hour to conclude this group work and 30
 minutes for the report back.***
 
+----
+
 The facilitator will wrap up this activity with a ***45 minutes
 <u>presentation</u>*** on the four conceptions of freedom and their origins
 and linking the presentation to the charters produced.
