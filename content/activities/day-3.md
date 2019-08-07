@@ -12,7 +12,7 @@ is also fierce contestation about ‘who’ should be free and how freedom comes
 The boundaries of freedom are always shifting. There have been times when
 freedom was synonymous with calls for formal legal and political equality, while at
 other times freedom had more economic, social and personal dimensions. Our point
-of departure today is Bernard Galle’s (1955) observation that some concepts are
+of departure today is Bernard Gallie’s (1955) observation that some concepts are
 “essentially contested” and freedom is one of those essentially contested concepts.
 
 Definitions and meanings of freedom do not develop in a vacuum. They are part of
