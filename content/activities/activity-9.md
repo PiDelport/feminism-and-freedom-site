@@ -108,6 +108,5 @@ discussion will conclude this session.
 
 ## 📖️ Handout
 
-* **[The Feminist Challenge]**
+* **[The Feminist Challenge]({{< relref "the-feminist-challenge" >}})**
 
-[The Feminist Challenge]: {{< relref "the-feminist-challenge" >}}
