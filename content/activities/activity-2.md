@@ -2,6 +2,11 @@
 title: 'Activity 2: Women and freedom in SA today'
 weight: 102
 
+summary: |
+    Drawing upon your responses to the assignment between
+    modules, this activity aims to produce a conversation about the
+    state of freedom and women in South Africa today.
+
 type: docs
 menu:
   activities:

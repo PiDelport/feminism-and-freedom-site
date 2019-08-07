@@ -2,6 +2,12 @@
 title: 'Day 3: Freedom and the Feminist Challenge'
 weight: 300
 
+summary: |
+    At the end of the day, participants should have an understanding of the different
+    meanings of freedom emerging from a range of political traditions, and how feminism
+    has grappled with the idea of freedom – giving us insights that are neglected in other
+    political traditions.
+
 type: docs
 menu:
   activities:

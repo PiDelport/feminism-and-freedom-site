@@ -2,6 +2,10 @@
 title: 'Activity 8: Four conceptions of freedom'
 weight: 308
 
+summary: |
+    This activity will look at three conceptions of freedom and the key ideas
+    that each conception brings to the fore.
+
 type: docs
 menu:
   activities:

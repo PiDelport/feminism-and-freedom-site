@@ -2,6 +2,10 @@
 title: 'Day 5: Wrapping Up this Module'
 weight: 500
 
+summary: |
+    At the end of this day participants should be able to reflect on the module in its
+    entirety, the key lessons, concepts and the experience as a whole.
+
 type: docs
 menu:
   activities:

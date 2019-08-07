@@ -2,6 +2,11 @@
 title: 'Activity 4: Feminism as a response: What is feminism?'
 weight: 204
 
+summary: |
+    To help us to reflect on a selection of current perspectives
+    around feminism, as part of developing a common and shared
+    understanding and definition of feminism.
+
 type: docs
 menu:
   activities:

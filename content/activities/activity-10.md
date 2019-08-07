@@ -2,6 +2,10 @@
 title: 'Activity 10: The ‘Woman Question’ in the International Women’s Organisations 1888 - 1919'
 weight: 310
 
+summary: |
+    In this fireside chat, we set the context for feminist concerns in international women’s
+    movements.
+
 type: docs
 menu:
   activities:

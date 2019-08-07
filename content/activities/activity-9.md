@@ -2,6 +2,10 @@
 title: 'Activity 9: The feminist challenge: how feminism expands ideas of freedom'
 weight: 309
 
+summary: |
+    This task will help us to locate the concrete ways in which feminism
+    challenged, broadened and enriched ideas about freedom.
+
 type: docs
 menu:
   activities:

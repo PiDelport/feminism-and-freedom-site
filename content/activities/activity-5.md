@@ -2,6 +2,12 @@
 title: 'Activity 5: Feminist/ism through time: 1ˢᵗ, 2ⁿᵈ, 3ʳᵈ wave and beyond?'
 weight: 205
 
+summary: |
+    To help us to familiarise ourselves with the three commonly spoken
+    about phases, periods or waves of feminism that have formed part of
+    the history of the women’s movement, in order to to better understand
+    feminism today and what the future of feminism holds.
+
 type: docs
 menu:
   activities:

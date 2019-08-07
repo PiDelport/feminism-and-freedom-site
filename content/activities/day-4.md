@@ -2,6 +2,12 @@
 title: 'Day 4: Feminism, Freedom and Subversive Voices'
 weight: 400
 
+summary: |
+    At the end of this day participants should have an understanding of the realities of
+    some of the blind spots within feminist discourse, and how the achievement of
+    freedom requires us to constantly assess our feminism and what this means for our
+    activism and acts of subversion in pursuit of freedom.
+
 type: docs
 menu:
   activities:

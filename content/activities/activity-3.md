@@ -2,6 +2,14 @@
 title: 'Activity 3: Critical skills – Understanding an argument'
 weight: 103
 
+summary: |
+    This activity will help us to recap our work from Module 1
+    (Contemporary Challenges to Freedom) on analysing the
+    structure of paragraphs and provide a bridge to this module
+    (Feminism and Freedom) by discussing components of an
+    argument which are (a) claims (b) assumptions (c) evidence (d)
+    conclusions.
+
 type: docs
 menu:
   activities:

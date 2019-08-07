@@ -2,6 +2,11 @@
 title: 'Day 2: Why Feminism?'
 weight: 200
 
+summary: |
+    At the end of this day participants should have an understanding of feminism,
+    its historical evolution and a strong basis for thinking about feminist responses
+    to freedom.
+
 type: docs
 menu:
   activities:

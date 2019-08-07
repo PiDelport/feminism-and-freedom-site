@@ -2,6 +2,10 @@
 title: 'Activity 12: Feminism and freedom: Violence, fear and our own movements'
 weight: 412
 
+summary: |
+    To help us to look inward, inside our own movements and organisations and
+    consider the challenges within and possible solutions to this
+
 type: docs
 menu:
   activities:

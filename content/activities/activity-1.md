@@ -2,6 +2,11 @@
 title: 'Activity 1: Women and the erosion of freedoms'
 weight: 101
 
+summary: |
+    This activity will help us to highlight the erosion of women’s
+    freedoms around the world through authoritarianism, technology
+    and inequality by investigating a series of case studies.
+
 type: docs
 menu:
   activities:

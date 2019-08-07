@@ -2,6 +2,11 @@
 title: 'Activity 7: Freedom songs and slogans'
 weight: 307
 
+summary: |
+    Using songs, poems and slogans about freedom, this activity will help
+    us to make the link between the idea of freedom and struggles for
+    social change.
+
 type: docs
 menu:
   activities:

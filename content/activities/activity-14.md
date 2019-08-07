@@ -2,6 +2,10 @@
 title: 'Activity 14: Module 2 evaluation'
 weight: 514
 
+summary: |
+    This session will be an evaluation of the course, conducted by Professor Linda
+    Cooper of UCT.
+
 type: docs
 menu:
   activities:

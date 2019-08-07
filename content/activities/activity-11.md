@@ -2,6 +2,10 @@
 title: 'Activity 11: Queer theory, feminism and freedom'
 weight: 411
 
+summary: |
+    To help us to understand how queer theory has put the feminist
+    conception of freedom under scrutiny and has highlighted its blind-spots.
+
 type: docs
 menu:
   activities:

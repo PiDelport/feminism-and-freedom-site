@@ -2,6 +2,12 @@
 title: 'Day 1: Introduction'
 weight: 100
 
+summary: |
+    At the end of the day, participants will have an understanding of the state of
+    women and LGBTQ+ freedoms on a global scale and how authoritarianism
+    and inequality are part of the story of the precarious nature of freedoms
+    globally.
+
 type: docs
 menu:
   activities:

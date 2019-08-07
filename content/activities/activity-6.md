@@ -2,6 +2,10 @@
 title: 'Activity 6: Feminist/ism through time: Poster making on the waves and beyond'
 weight: 206
 
+summary: |
+    To help us to consolidate our work from earlier by building a huge
+    poster of the wave your reading group explored.
+
 type: docs
 menu:
   activities:
