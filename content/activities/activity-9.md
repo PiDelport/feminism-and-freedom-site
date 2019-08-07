@@ -54,40 +54,41 @@ Get ready to report back to plenary.
 
 ### Group 1: Social reproduction theory
 
-<u>Reading</u>: Tithi Battacharya (2017) adapted notes from
-the interview [“Understanding Social Reproduction Theory”][social-reproduction]
+<u>Reading</u>:
 
-[social-reproduction]: {{< relref "understanding-social-reproduction-theory" >}}
+* Tithi Battacharya (2017) adapted notes from the interview
+  “[Understanding Social Reproduction Theory]
+  ({{< relref "understanding-social-reproduction-theory" >}})”
 
 ### Group 2: Personal is political!
 
-<u>Reading</u>: Frances Rogan and Shelley Budgeon
-(2018) An adaptation of the article [“The Personal is
-Political: Assessing Feminist Fundamentals in the
-Digital Age”][personal-political]
+<u>Reading</u>:
 
-[personal-political]: {{< relref "the-personal-is-political" >}}
+* Frances Rogan and Shelley Budgeon (2018) An adaptation of the article
+  “[The Personal is Political: Assessing Feminist Fundamentals in the Digital Age]
+  ({{< relref "the-personal-is-political" >}})”
 
 ### Group 3: Race matters, so does gender and class!
 
 <u>Readings</u>:
 
-Keeanga-Yamahtta Taylor (2019),
-[“Black Feminism and the Combahee River Collective”][combahee],
-Monthly Review Press.
+* Keeanga-Yamahtta Taylor (2019),
+  “[Black Feminism and the Combahee River Collective]
+  ({{< relref "black-feminism-and-the-combahee-river-collective" >}})”,
+  Monthly Review Press.
 
-[combahee]: {{< relref "black-feminism-and-the-combahee-river-collective" >}}
-
-Extracts from Cathia Janainati and Judy Groves,
-Introducing Feminism: A Graphic Guide page 137 - 146
+* Extracts from Cathia Janainati and Judy Groves,
+  Introducing Feminism: A Graphic Guide page 137 - 146
 
 ### Group 4: Women’s liberation is not a by-product of national liberation
 
-<u>Reading</u>: Judy Kimble and Elaine Unterhalter
-[“'We Opened the Road for You, You Must Go Forward': ANC Women's Struggles, 1912-1982”][opened]
-(as [PDF]), *Feminist Review*, No. 12 (1982), page 11 – 14.
+<u>Reading</u>:
 
-[opened]: {{< relref "we-opened-the-road-for-you" >}}
+* Judy Kimble and Elaine Unterhalter
+  “['We Opened the Road for You, You Must Go Forward': ANC Women's Struggles, 1912-1982]
+  ({{< relref "we-opened-the-road-for-you" >}})”
+  (as [PDF]), *Feminist Review*, No. 12 (1982), page 11 – 14.
+
 [PDF]: /documents/we-opened-the-road-for-you.pdf
 
 **Group 5:**  <!-- TODO: Revisit? -->
