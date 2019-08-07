@@ -13,7 +13,7 @@ menu:
 ## Aims
 
 To help us to understand how queer theory has put the feminist
-conception of freedom under scrutiny and has highlighted it’s blind-spots.
+conception of freedom under scrutiny and has highlighted its blind-spots.
 
 ## About
 
