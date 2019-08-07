@@ -30,5 +30,5 @@ also have an understanding of the preparation required before the next module.
 
 This day comprises the following activities:
 
-* Activity 13: Wrap up
-* Activity 14: Module 2 Evaluation
+* [Activity 13: Wrap up]({{< relref "activity-13" >}})
+* [Activity 14: Module 2 Evaluation]({{< relref "activity-14" >}})

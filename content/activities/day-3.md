@@ -40,11 +40,11 @@ feminism gives us expanded notions of freedom?
 
 This day comprises the following activities:
 
-* Activity 7: Freedom songs and slogans
-* Activity 8: Four conceptions of freedom
-* Activity 9: The feminist challenge: How feminism expands ideas of freedom
-* Activity 10: A fireside chat: The ‘Woman Question’ in the International
-  Women’s Organisations 1888 - 1919
+* [Activity 7: Freedom songs and slogans]({{< relref "activity-7" >}})
+* [Activity 8: Four conceptions of freedom]({{< relref "activity-8" >}})
+* [Activity 9: The feminist challenge: How feminism expands ideas of freedom]({{< relref "activity-9" >}})
+* [Activity 10: A fireside chat: The ‘Woman Question’ in the International
+  Women’s Organisations 1888 - 1919]({{< relref "activity-10" >}})
 
 ## Presentation
 

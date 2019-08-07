@@ -41,9 +41,9 @@ globally.
 
 This day comprises the following activities:
 
-* Activity 1: Women and the erosion of freedom
-* Activity 2: Women and freedom in South Africa today
-* Activity 3: Critical skills: Understanding an argument
+* [Activity 1: Women and the erosion of freedom]({{< relref "activity-1" >}})
+* [Activity 2: Women and freedom in South Africa today]({{< relref "activity-2" >}})
+* [Activity 3: Critical skills: Understanding an argument]({{< relref "activity-3" >}})
 
 ## Presentation
 

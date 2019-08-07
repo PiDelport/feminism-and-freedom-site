@@ -34,7 +34,6 @@ to freedom.
 
 This day comprises the following activities:
 
-* Activity 4: Feminism as a response: What is feminism?
-* Activity 5: Feminist/ism through time: 1ˢᵗ, 2ⁿᵈ, 3ʳᵈ wave and beyond?
-* Activity 6: Feminist/ism through time: Poster making on the waves and
-  beyond
+* [Activity 4: Feminism as a response: What is feminism?]({{< relref "activity-4" >}})
+* [Activity 5: Feminist/ism through time: 1ˢᵗ, 2ⁿᵈ, 3ʳᵈ wave and beyond?]({{< relref "activity-5" >}})
+* [Activity 6: Feminist/ism through time: Poster making on the waves and beyond]({{< relref "activity-6" >}})

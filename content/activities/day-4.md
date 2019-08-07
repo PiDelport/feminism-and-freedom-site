@@ -41,5 +41,5 @@ activism and acts of subversion in pursuit of freedom.
 
 This day comprises the following activities:
 
-* Activity 11: Queer theory, feminism and freedom
-* Activity 12: Feminism and freedom: violence, fear and our own movements
+* [Activity 11: Queer theory, feminism and freedom]({{< relref "activity-11" >}})
+* [Activity 12: Feminism and freedom: violence, fear and our own movements]({{< relref "activity-12" >}})
