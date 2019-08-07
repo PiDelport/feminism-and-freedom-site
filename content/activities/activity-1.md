@@ -75,30 +75,30 @@ freedoms.
 
 ## The Case Studies
 
-**Group 1:**
+### Group 1
 [28 women dragging suitcases march for abortion rights in Northern Ireland]
 (https://www.nytimes.com/2019/02/27/world/europe/uk-abortion-law-northern-ireland.html)
 
-**Group 2:**
+### Group 2
 [‘She insulted my manhood’: murder underlines Turkey’s anti-LGBT backlash]
 (https://www.theguardian.com/global-development/2018/aug/16/she-insulted-my-manhood-turkey-faces-fresh-scrutiny-lgbt-rights)
 
-**Group 3:**
+### Group 3
 [I went to jail for handing our feminist stickers in China]
 (https://www.theguardian.com/commentisfree/2017/mar/08/feminist-stickers-china-backash-women-activists)
 
-**Group 4:**
+### Group 4
 [Tunisia invokes Sharia law in bid to shutdown LGBT rights group]
 (https://www.theguardian.com/global-development/2019/apr/30/tunisia-invokes-sharia-law-in-bid-to-shut-down-lgbt-rights-group)
 
-**Group 5:**
+### Group 5
 [Kenya lifts ban on Marie Stopes abortion services after warning lives are at risk]
 (https://www.theguardian.com/global-development/2018/dec/21/kenya-lifts-ban-marie-stopes-abortion-services-after-warning-lives-are-at-risk)
 
-**Group 6:**
+### Group 6
 [Russian lawmakers are giving domestic abusers the green light]
 (https://www.theguardian.com/commentisfree/2017/jan/30/russia-decriminalise-domestic-violence-laws)
 
-**Group 7:**
+### Group 7
 [They endured domestic violence and now they’re victims of austerity]
 (https://www.theguardian.com/commentisfree/2017/jan/26/endured-domestic-violence-victims-austerity-sunderland)
