@@ -91,6 +91,9 @@ Get ready to report back to plenary.
 
 [PDF]: /documents/we-opened-the-road-for-you.pdf
 
+----
+
+## Notes
 
 Be mindful of the fact that participants in other groups were dealing
 with different questions. They rely on you to present your case in a
