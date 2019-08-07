@@ -1,5 +1,11 @@
 ---
+widget: "blank"
+headless: true  # This file represents a page section.
 
+title: 'Introduction'
+
+design:
+  columns: "1"
 ---
 
 Various political traditions have been seized with the questions: "what is the
