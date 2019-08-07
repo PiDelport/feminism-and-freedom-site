@@ -33,7 +33,7 @@ how feminism gives us enriched ideas of freedom.
 
 ## Task
 
-You will be divided into <u>**5 groups**</u>. Each group will receive a resource
+You will be divided into <u>**4 groups**</u>. Each group will receive a resource
 pack with an article and images about the different ways in which
 feminism has challenged and broadened ideas of freedom. Your task is
 to carefully study the contents of the resource pack and prepare an
@@ -91,7 +91,6 @@ Get ready to report back to plenary.
 
 [PDF]: /documents/we-opened-the-road-for-you.pdf
 
-**Group 5:**  <!-- TODO: Revisit? -->
 
 Be mindful of the fact that participants in other groups were dealing
 with different questions. They rely on you to present your case in a
