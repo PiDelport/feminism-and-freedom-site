@@ -1,6 +1,11 @@
 ---
 title: 'Activity 10: The ‘Woman Question’ in the International Women’s Organisations 1888 - 1919'
 weight: 310
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 3'
 ---
 
 ***2 hours***

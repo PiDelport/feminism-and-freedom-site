@@ -1,6 +1,11 @@
 ---
 title: 'Activity 8: Four conceptions of freedom'
 weight: 308
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 3'
 ---
 
 ***2 hours 15 minutes***

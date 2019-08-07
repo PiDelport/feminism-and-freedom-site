@@ -1,6 +1,12 @@
 ---
 title: 'Day 2: Why Feminism?'
 weight: 200
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 2'
+    name: 'Why Feminism?'
 ---
 
 ## About this day

@@ -1,6 +1,11 @@
 ---
 title: 'Activity 2: Women and freedom in SA today'
 weight: 102
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 1'
 ---
 
 ***2 hours 15 minutes***

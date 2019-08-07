@@ -1,6 +1,11 @@
 ---
 title: 'Activity 6: Feminist/ism through time: Poster making on the waves and beyond'
 weight: 206
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 2'
 ---
 
 ***1 hour***

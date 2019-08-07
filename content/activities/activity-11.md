@@ -1,6 +1,11 @@
 ---
 title: 'Activity 11: Queer theory, feminism and freedom'
 weight: 411
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 4'
 ---
 
 ***2 hours 30 minutes***

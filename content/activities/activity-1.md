@@ -1,6 +1,11 @@
 ---
 title: 'Activity 1: Women and the erosion of freedoms'
 weight: 101
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 1'
 ---
 
 ***1 hours 30 minutes***

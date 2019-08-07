@@ -1,6 +1,12 @@
 ---
 title: 'Day 1: Introduction'
 weight: 100
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 1'
+    name: 'Introduction'
 ---
 
 ## About this day

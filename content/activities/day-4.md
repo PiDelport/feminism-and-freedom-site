@@ -1,6 +1,12 @@
 ---
 title: 'Day 4: Feminism, Freedom and Subversive Voices'
 weight: 400
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 4'
+    name: 'Feminism, Freedom and Subversive Voices'
 ---
 
 ## About this day

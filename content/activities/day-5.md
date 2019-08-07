@@ -1,6 +1,12 @@
 ---
 title: 'Day 5: Wrapping Up this Module'
 weight: 500
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 5'
+    name: 'Wrapping Up this Module'
 ---
 
 ## About this day

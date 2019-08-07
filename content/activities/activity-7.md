@@ -1,6 +1,11 @@
 ---
 title: 'Activity 7: Freedom songs and slogans'
 weight: 307
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 3'
 ---
 
 ***1 hours 30 minutes***

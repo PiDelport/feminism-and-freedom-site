@@ -1,6 +1,11 @@
 ---
 title: 'Activity 9: The feminist challenge: how feminism expands ideas of freedom'
 weight: 309
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 3'
 ---
 
 ***2 hours 45 minutes***

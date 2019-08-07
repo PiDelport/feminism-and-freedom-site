@@ -1,6 +1,11 @@
 ---
 title: 'Activity 12: Feminism and freedom: Violence, fear and our own movements'
 weight: 412
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 4'
 ---
 
 ***3 hours***

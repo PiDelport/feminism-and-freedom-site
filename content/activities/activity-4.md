@@ -1,6 +1,11 @@
 ---
 title: 'Activity 4: Feminism as a response: What is feminism?'
 weight: 204
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 2'
 ---
 
 ***2 hours***

@@ -1,6 +1,11 @@
 ---
 title: 'Activity 13: Wrap up'
 weight: 513
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 5'
 ---
 
 ***2 hours***

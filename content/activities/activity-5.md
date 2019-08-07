@@ -1,6 +1,11 @@
 ---
 title: 'Activity 5: Feminist/ism through time: 1ˢᵗ, 2ⁿᵈ, 3ʳᵈ wave and beyond?'
 weight: 205
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 2'
 ---
 
 ***3 hours***

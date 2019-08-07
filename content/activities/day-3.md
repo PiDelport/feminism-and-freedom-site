@@ -1,6 +1,12 @@
 ---
 title: 'Day 3: Freedom and the Feminist Challenge'
 weight: 300
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 3'
+    name: 'Freedom and the Feminist Challenge'
 ---
 
 ## About this day

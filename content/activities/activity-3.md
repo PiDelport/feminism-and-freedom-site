@@ -1,6 +1,11 @@
 ---
 title: 'Activity 3: Critical skills – Understanding an argument'
 weight: 103
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 1'
 ---
 
 ***3 hours***

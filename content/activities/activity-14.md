@@ -1,6 +1,11 @@
 ---
 title: 'Activity 14: Module 2 evaluation'
 weight: 514
+
+type: docs
+menu:
+  activities:
+    parent: 'Day 5'
 ---
 
 ***2 hours***
