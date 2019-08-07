@@ -3,7 +3,7 @@ title: 'Day 5: Wrapping Up this Module'
 weight: 500
 ---
 
-# About this day
+## About this day
 
 Our focus on this day is to connect all the dots by revisiting the core questions we
 posed at the beginning of the module.
@@ -20,13 +20,13 @@ movements, campaigns and key insights that the feminist tradition offers us. Is
 feminism a theory of struggle? How can feminism help us in conducting our everyday
 politics and struggles?
 
-# Objectives for this day
+## Objectives for this day
 
 At the end of this day participants should be able to reflect on the module in its
 entirety, the key lessons, concepts and the experience as a whole. Participants will
 also have an understanding of the preparation required before the next module.
 
-# Day activity sessions
+## Day activity sessions
 
 This day comprises the following activities:
 

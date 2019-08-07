@@ -5,7 +5,7 @@ weight: 310
 
 ***2 hours***
 
-# Overview
+## Overview
 
 In this fireside chat, we set the context for feminist concerns in international women’s
 movements, including feminist socialism within the 2ⁿᵈ international in the following
@@ -30,7 +30,7 @@ revolution and look at the overlap between the ideas and aims of socialist
 women within party structures, and women working outside these structures
 who put forward socialist visions for the new world order.
 
-# Speaker bios
+## Speaker bios
 
 Ingrid Sharp is Professor of German Cultural and Gender History and Corinne
 Painter is a cultural historian and lecturer at Leeds University (UK). Their research

@@ -5,12 +5,12 @@ weight: 309
 
 ***2 hours 45 minutes***
 
-# Aims
+## Aims
 
 This task will help us to locate the concrete ways in which feminism
 challenged, broadened and enriched ideas about freedom.
 
-# About
+## About
 
 There are quite a few ideas that are today associated with the feminist
 tradition. Many of these ideas were responses to the neglect of feminist
@@ -22,7 +22,7 @@ four conceptions of freedom that emerged in different struggles, it is
 time to look at where feminism stands in relation to these ideas and
 how feminism gives us enriched ideas of freedom.
 
-# Task
+## Task
 
 You will be divided into <u>**5 groups**</u>. Each group will receive a resource
 pack with an article and images about the different ways in which
@@ -43,14 +43,14 @@ ideas presented in your resource pack.
 
 Get ready to report back to plenary.
 
-**Group 1: Social reproduction theory**
+### Group 1: Social reproduction theory
 
 <u>Reading</u>: Tithi Battacharya (2017) adapted notes from
 the interview [“Understanding Social Reproduction Theory”][social-reproduction]
 
 [social-reproduction]: {{< relref "understanding-social-reproduction-theory" >}}
 
-**Group 2: Personal is political!**
+### Group 2: Personal is political!
 
 <u>Reading</u>: Frances Rogan and Shelley Budgeon
 (2018) An adaptation of the article [“The Personal is
@@ -59,7 +59,7 @@ Digital Age”][personal-political]
 
 [personal-political]: {{< relref "the-personal-is-political" >}}
 
-**Group 3: Race matters, so does gender and class!**
+### Group 3: Race matters, so does gender and class!
 
 <u>Readings</u>:
 
@@ -72,7 +72,7 @@ Monthly Review Press.
 Extracts from Cathia Janainati and Judy Groves,
 Introducing Feminism: A Graphic Guide page 137 - 146
 
-**Group 4: Women’s liberation is not a by-product of national liberation**
+### Group 4: Women’s liberation is not a by-product of national liberation
 
 <u>Reading</u>: Judy Kimble and Elaine Unterhalter
 [“'We Opened the Road for You, You Must Go Forward': ANC Women's Struggles, 1912-1982”][opened]
@@ -94,7 +94,7 @@ have ***45 minutes*** for the report back.
 A ***45 minutes*** input that consolidates the presentations and a
 discussion will conclude this session.
 
-# 📖️ Handout
+## 📖️ Handout
 
 * **[The Feminist Challenge]**
 

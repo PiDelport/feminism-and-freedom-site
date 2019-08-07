@@ -5,7 +5,7 @@ weight: 513
 
 ***2 hours***
 
-# Aims
+## Aims
 
 To help us to:
 
@@ -14,6 +14,6 @@ this module and revisit the initial questions we posed and the people
 we interviewed about their experiences of freedom in South Africa
 today.
 
-# Task
+## Task
 
 This task will be revealed on the day! It’s a surprise!

@@ -5,13 +5,13 @@ weight: 307
 
 ***1 hours 30 minutes***
 
-# Aims
+## Aims
 
 Using songs, poems and slogans about freedom, this activity will help
 us to make the link between the idea of freedom and struggles for
 social change.
 
-# About
+## About
 
 The idea of freedom has been invoked historically by different layers of
 society. It appears in political speeches, songs, slogans and poems
@@ -22,7 +22,7 @@ meaning of freedom is always shifting and changing. The meanings
 can range from restoring what has been lost to questioning an unjust
 order and making claims about the future.
 
-# Task
+## Task
 
 For this task you will be divided into <u>**4 groups**</u>. Each group will listen to
 (and watch) a song from a particular era of struggle. On a set of

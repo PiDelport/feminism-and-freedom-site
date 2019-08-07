@@ -3,7 +3,7 @@ title: 'Day 4: Feminism, Freedom and Subversive Voices'
 weight: 400
 ---
 
-# About this day
+## About this day
 
 As neoliberalism has shaped and reshapes gendered oppression, women and
 gender non-conforming people are constantly challenging the social systems that
@@ -30,14 +30,14 @@ feminism can make a significant contribution to freedom. Let us listen and
 critically assess our feminism and provide a model for others to consider in
 ensuring that their struggles for freedom can be far more intersectional.
 
-# Objectives for this day
+## Objectives for this day
 
 At the end of this day participants should have an understanding of the realities of
 some of the blind spots within feminist discourse, and how the achievement of
 freedom requires us to constantly assess our feminism and what this means for our
 activism and acts of subversion in pursuit of freedom.
 
-# Day activity sessions
+## Day activity sessions
 
 This day comprises the following activities:
 

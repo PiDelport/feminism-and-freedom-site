@@ -5,7 +5,7 @@ weight: 101
 
 ***1 hours 30 minutes***
 
-# Aims
+## Aims
 
 <!-- XXX: Reference to Module 1 -->
 Linking to Module 1 _(Contemporary Challenges to Freedom)_,
@@ -13,7 +13,7 @@ this activity will help us to highlight the erosion of women’s
 freedoms around the world through authoritarianism, technology
 and inequality by investigating a series of case studies.
 
-# About
+## About
 
 Around the world an erosion of women’s personal freedoms has
 begun. Globally, there is a debate about whether what we see is
@@ -29,7 +29,7 @@ authoritarianism, inequality and technology. This activity uses
 recent case studies to assess the position of women and the
 LGBTIQ community in society today.
 
-# Task
+## Task
 
 Working in seven <u>**small groups**</u>, you are tasked with studying a
 case study detailing a global example of an erosion of women’s
@@ -63,7 +63,7 @@ freedoms.
     consolidating the dominant trends and what this means for
     women’s freedom today.
 
-# The Case Studies
+## The Case Studies
 
 **Group 1:**
 [28 women dragging suitcases march for abortion rights in Northern Ireland]

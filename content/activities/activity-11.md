@@ -5,12 +5,12 @@ weight: 411
 
 ***2 hours 30 minutes***
 
-# Aims
+## Aims
 
 To help us to understand how queer theory has put the feminist
 conception of freedom under scrutiny and has highlighted it’s blind-spots.
 
-# About
+## About
 
 Different strands of feminism have challenged dominant conceptions of
 freedom in various ways. These contributions have enriched and
@@ -21,7 +21,7 @@ ways that this has been done is through queer theory. In this activity,
 we look at the three core ‘subversive’ contributions that queer theory
 makes in conversation with the feminist tradition.
 
-# Task 1
+## Task 1
 
 Working in buzz groups, you will be given a character card describing
 an individual and their way of life. Familiarise yourself with the
@@ -37,7 +37,7 @@ Prepare to report to plenary.
 
 ***You will have 15 minutes to complete this task***
 
-# Task 2
+## Task 2
 
 The facilitator will make a multi-modal presentation highlighting the
 three core contributions that queer theory makes in its critique of the
@@ -49,7 +49,7 @@ feminist tradition’s conceptions of freedom. These are:
 
 ***The presentation will run for 45 minutes***
 
-# Task 3
+## Task 3
 
 In <u>**6 groups**</u> you will read the Huff Post article titled:
 [Freedom for the Queer Community: ‘I struggle to imagine a safe space’][1]

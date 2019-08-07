@@ -5,14 +5,14 @@ weight: 412
 
 ***3 hours***
 
-# Aims
+## Aims
 
 To help us to:
 
 * Look inward, inside our own movements and organisations and
 consider the challenges within and possible solutions to this
 
-# About
+## About
 
 K.A. Amienne’s (2017) infamous quote, paraphrased here, is a good
 starting point for this activity.
@@ -30,7 +30,7 @@ when it does happen, we often falter.
 Can we stand up with credibility and integrity in our struggle for
 freedom, when this freedom is compromised within?
 
-# Task 1
+## Task 1
 
 For this activity we will watch parts of the movie, The People vs Patriarchy.
 
@@ -52,7 +52,7 @@ pop your cards into the box provided.
 
 ***You have a further 30 minutes to conclude your flash card write ups.***
 
-# Task 2
+## Task 2
 
 For this task we will line up the experience in the room. We will have a
 panel comprising a queer activist, comrades from #TotalShutdown and

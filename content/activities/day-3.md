@@ -3,7 +3,7 @@ title: 'Day 3: Freedom and the Feminist Challenge'
 weight: 300
 ---
 
-# About this day
+## About this day
 
 The idea of freedom has played a major role in the history of political thought and
 struggle. The idea has motivated many attempts at social change. Even so, across
@@ -28,7 +28,7 @@ freedom. It has done this by tackling dominant political traditions and pointing
 their blind-spots. Feminism has also developed new ideas of freedom which have
 transformed how we think about what it means to be free.
 
-# Objectives for this day
+## Objectives for this day
 
 At the end of the day, participants should have an understanding of the different
 meanings of freedom emerging from a range of political traditions, and how feminism
@@ -36,7 +36,7 @@ has grappled with the idea of freedom – giving us insights that are neglected 
 political traditions. The day is structured around the question: how (if at all) does
 feminism gives us expanded notions of freedom?
 
-# Day activity sessions
+## Day activity sessions
 
 This day comprises the following activities:
 
@@ -46,7 +46,7 @@ This day comprises the following activities:
 * Activity 10: A fireside chat: The ‘Woman Question’ in the International
   Women’s Organisations 1888 - 1919
 
-# Presentation
+## Presentation
 
 * *Freedom and the Feminist Challenge* (slides as [PDF] or [PowerPoint])
 

@@ -5,20 +5,20 @@ weight: 102
 
 ***2 hours 15 minutes***
 
-# Aims
+## Aims
 
 Drawing upon your responses to the assignment between
 modules, this activity aims to produce a conversation about the
 state of freedom and women in South Africa today.
 
-# About
+## About
 
 In the local context women have wide ranging views on whether
 they are free. These views are excavated in this activity in order
 to assess where we stand on women’s freedom in South Africa
 today.
 
-# Task
+## Task
 
 Working in the **group** you were assigned to yesterday
 (Wednesday afternoon), you will spend time consolidating your

@@ -5,14 +5,14 @@ weight: 205
 
 ***3 hours***
 
-# Aims
+## Aims
 
 To help us to familiarise ourselves with the three commonly spoken
 about phases, periods or waves of feminism that have formed part of
 the history of the women’s movement, in order to to better understand
 feminism today and what the future of feminism holds.
 
-# About
+## About
 
 The history of feminism is filled with radicals, progressives, liberals,
 Marxists and centrists. It is filled with splinter movements,
@@ -45,7 +45,7 @@ recognise the enormous work that each wave has done for the feminist
 movement, and to prepare to keep doing more work. If we want to
 discard it, it is worth understanding first what we are discarding.
 
-# Task 1
+## Task 1
 
 The facilitator will provide a brief plenary overview on the waves of
 feminism, drawing on feminist theory as well as video clips from the All
@@ -66,7 +66,7 @@ Anne Summers on second wave feminism:
 Rebecca Walker on third wave feminism:
 {{< youtube dQKgJ1PJzBs >}}
 
-# Task 2
+## Task 2
 
 For this task you will be divided into 6 <u>**reading groups**</u> to explore a
 particular wave in greater detail. Two groups will focus on each of the
@@ -77,7 +77,7 @@ You will have a roving resource person dedicated to your wave who
 you can ask for advice/ questions or who can assist you with further
 readings/information if required.
 
-## Groups 1 and 2: 1ˢᵗ Wave Readings:
+### Groups 1 and 2: 1ˢᵗ Wave Readings:
 
 * [Constance Grady] \(2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
@@ -91,7 +91,7 @@ readings/information if required.
   (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
    – from the start of the 20ᵗʰ Century to the 1956 Women’s March
 
-## Groups 3 & 4: 2ⁿᵈ Wave Readings:
+### Groups 3 & 4: 2ⁿᵈ Wave Readings:
 
 * [Constance Grady] \(2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])
@@ -107,7 +107,7 @@ readings/information if required.
 <!-- Chapter 2 starts at PDF page 62. -->
 [hassim-chapter-2]: /documents/womens-organizations-and-democracy-in-south-africa-book.pdf#page=62
 
-## Groups 5 & 6: 3ʳᵈ Wave Readings
+### Groups 5 & 6: 3ʳᵈ Wave Readings
 
 * [Constance Grady] \(2018). An adaption
   (as [PDF][waves-of-feminism-pdf] or [DOCX][waves-of-feminism-doxc])

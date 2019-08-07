@@ -5,12 +5,12 @@ weight: 308
 
 ***2 hours 15 minutes***
 
-# Aims
+## Aims
 
 This activity will look at three conceptions of freedom and the key ideas
 that each conception brings to the fore.
 
-# About
+## About
 
 Different ideas about freedom have developed over time. Each
 conception of freedom tells us something about society at a particular
@@ -23,7 +23,7 @@ These conceptions of freedoms are:
 * freedom as emancipation from slavery
 * freedom as independence from colonial rule
 
-# Task
+## Task
 
 Working in <u>**4 groups**</u>, you will be provided with one of the four
 '[Freedom Declarations]'. These declarations outline visions of freedom

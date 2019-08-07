@@ -5,7 +5,7 @@ weight: 103
 
 ***3 hours***
 
-# Aims
+## Aims
 
 <!-- XXX: Reference to Module 1 -->
 This activity will help us to recap our work from Module 1
@@ -15,7 +15,7 @@ structure of paragraphs and provide a bridge to this module
 argument which are (a) claims (b) assumptions \(c) evidence (d)
 conclusions.
 
-# About
+## About
 
 The ability to recognise and evaluate an argument is a critical
 skill in today’s activist world. In many ways, we are confronted
@@ -28,7 +28,7 @@ informal spaces. But, what do we mean by “argument”? What
 are the necessary components of an argument and how do we
 evaluate a good or bad argument?
 
-# Task
+## Task
 
 You will be divided into <u>**6 groups**</u>. Each group will read the
 Peter Beinart article *The new authoritarians are waging a war on

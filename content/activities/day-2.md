@@ -3,7 +3,7 @@ title: 'Day 2: Why Feminism?'
 weight: 200
 ---
 
-# About this day
+## About this day
 
 Some have argued that the stakes for every struggle for freedom today have
 been transformed from efforts to win modest reforms into battles for survival,
@@ -24,13 +24,13 @@ feminism is and look into its historical development. This will enable us to loo
 to the future of what feminism can do in helping us overcome the challenges
 to freedom from inequality, authoritarianism and big data. But why feminism?
 
-# Objectives for this day
+## Objectives for this day
 
 At the end of this day participants should have an understanding of feminism,
 its historical evolution and a strong basis for thinking about feminist responses
 to freedom.
 
-# Day activity sessions
+## Day activity sessions
 
 This day comprises the following activities:
 

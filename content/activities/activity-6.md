@@ -5,17 +5,17 @@ weight: 206
 
 ***1 hour***
 
-# Aims
+## Aims
 
 To help us to consolidate our work from earlier by building a huge
 poster of the wave your reading group explored.
 
-# About
+## About
 
 Poster making is a fun and creative way for us to share our learnings
 with each other.
 
-# Task
+## Task
 
 Firstly, you will need to find the other group that was working on the
 same wave as you were. As a <u>**combined group**</u> you will need to
@@ -39,6 +39,6 @@ between ***10-15 minutes for the presentation*** of your poster, which will
 be followed by critical feedback from the resource person that was
 allocated to your group.
 
-# 📖️ Handout
+## 📖️ Handout
 
 * **[Waves of Feminism]({{< relref "waves-of-feminism.md" >}})**

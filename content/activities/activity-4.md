@@ -5,13 +5,13 @@ weight: 204
 
 ***2 hours***
 
-# Aims
+## Aims
 
 To help us to reflect on a selection of current perspectives
 around feminism, as part of developing a common and shared
 understanding and definition of feminism.
 
-# About
+## About
 
 There is little doubt that feminism has gained incredible
 prominence over the recent period. In fact, it was the word of
@@ -20,21 +20,21 @@ Merriam-Webster in 2017!
 So what is it? What are the core tenets defining feminism and is
 it a worthy response in struggling for freedom?
 
-# Task
+## Task
 
 Spend some time reading through the views/definitions below
 and then discuss the questions that follow in <u>**small groups**</u>:
 
 Please elect someone to report back to plenary.
 
-## Perspective 1
+### Perspective 1
 
 Feminism can be broadly characterised by a concern with the
 systematic disadvantage of womxn and the means through
 which equitable outcomes can be achieved, it has never had
 one distinct set of beliefs or a unified position.
 
-## Perspective 2
+### Perspective 2
 
 Despite the variations between different types of feminist
 approaches, there are four characteristics that are common to
@@ -46,12 +46,12 @@ subject to change and progress and (iv) feminism is about an
 emancipatory commitment to change: the conditions of life that
 are oppressive for women need to be transformed.
 
-## Perspective 3
+### Perspective 3
 
 Feminism is a movement to end sexism, sexist exploitation, and
 oppression.
 
-## Perspective 4
+### Perspective 4
 
 [Intersectional feminism] is a form of feminism that aims to
 include all women and recognises that race, gender identity,
@@ -60,7 +60,7 @@ in what ways women are oppressed.
 
 [Intersectional feminism]: http://www.telegraph.co.uk/women/womens-life/10572435/Intersectional-feminism.-What-the-hell-is-it-And-why-you-should-care.html
 
-## Perspective 5
+### Perspective 5
 
 The term “feminism” suggests a single ideology, but in reality it
 is a broad term for a variety of conceptions of the relations
@@ -73,7 +73,7 @@ feminists question and challenge the origins of oppressive
 gender relations and attempt to develop a variety of strategies
 that might change these relations for the better.
 
-## Perspective 6
+### Perspective 6
 
 Feminism is a movement which seeks to place women above
 men and trample men into the dirt. Feminists will tell you that
@@ -83,7 +83,7 @@ at least 5-10 years) given exactly the same treatment in every
 area of life as men. Women / Feminists now wish to take over,
 which is far from equality.
 
-## Perspective 7
+### Perspective 7
 
 We need to reclaim feminism from those who use it as a political
 tool; from those who use gender politics to hide their

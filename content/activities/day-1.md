@@ -3,7 +3,7 @@ title: 'Day 1: Introduction'
 weight: 100
 ---
 
-# About this day
+## About this day
 
 Globally, there is a debate about the state of freedoms for women and the
 LGBTQ+ community. Two different perspectives have gained prominence in
@@ -30,14 +30,14 @@ there is a need to resist erosions to freedom, fight against the deliberate
 shrinking of spaces for freedom and to strengthen the efforts of those who are
 struggling for a breakthrough under various authoritarian regimes.
 
-# Objectives for this day
+## Objectives for this day
 
 At the end of the day, participants will have an understanding of the state of
 women and LGBTQ+ freedoms on a global scale and how authoritarianism
 and inequality are part of the story of the precarious nature of freedoms
 globally.
 
-# Day activity sessions
+## Day activity sessions
 
 This day comprises the following activities:
 
@@ -45,7 +45,7 @@ This day comprises the following activities:
 * Activity 2: Women and freedom in South Africa today
 * Activity 3: Critical skills: Understanding an argument
 
-# Presentation
+## Presentation
 
 * *Introduction: Feminism and Freedom* (slides as [PDF] or [PowerPoint])
 
