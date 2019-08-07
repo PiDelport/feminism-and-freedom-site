@@ -45,3 +45,5 @@ exhibited.
 We will conclude this task with a plenary discussion on the
 question ‘Are women free or unfree in South Africa today?’ and
 the lesson learnt from the assignment and this exercise.
+
+{{< vimeo 352238671 >}} <!-- #FeminismAndFreedom: Activity Two - Women and freedom in SA today -->
