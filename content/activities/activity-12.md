@@ -43,6 +43,8 @@ freedom, when this freedom is compromised within?
 
 For this activity we will watch parts of the movie, The People vs Patriarchy.
 
+{{< youtube TAoPFeObqe4 >}} <!-- The People Vs Patriarchy -->
+
 ***The viewing will be on average around 30 minutes.***
 
 1. Jot down your thoughts and observations while watching. Try and
