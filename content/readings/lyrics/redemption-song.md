@@ -5,7 +5,7 @@ weight: 704
 
 (Part of [Activity 7: Freedom songs and slogans]({{< relref "activity-7#task" >}}).)
 
-{{< youtube Md8EesTaIsA >}}
+{{< youtube Md8EesTaIsA >}} <!-- Bob Marley - Redemption Song (Official Video) -->
 
 ## Lyrics
 

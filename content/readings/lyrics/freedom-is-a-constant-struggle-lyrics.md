@@ -5,7 +5,7 @@ weight: 702
 
 (Part of [Activity 7: Freedom songs and slogans]({{< relref "activity-7#task" >}}).)
 
-{{< youtube 1OXxCc-Lw88 >}}
+{{< youtube 1OXxCc-Lw88 >}} <!-- Barbara Dane & the Chambers Brothers - Freedom Is A Constant Struggle -->
 
 ## Lyrics
 

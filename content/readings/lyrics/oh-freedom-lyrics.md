@@ -5,7 +5,7 @@ weight: 701
 
 (Part of [Activity 7: Freedom songs and slogans]({{< relref "activity-7#task" >}}).)
 
-{{< youtube veiJLhXdwn8 >}}
+{{< youtube veiJLhXdwn8 >}} <!-- Oh Freedom! - The Golden Gospel Singers (Lyrics in Description) -->
 
 ## Lyrics
 
