@@ -8,6 +8,7 @@ summary: |
     to freedom.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 2'

@@ -7,6 +7,7 @@ summary: |
     entirety, the key lessons, concepts and the experience as a whole.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 5'

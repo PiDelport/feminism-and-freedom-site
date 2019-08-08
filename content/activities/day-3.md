@@ -9,6 +9,7 @@ summary: |
     political traditions.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 3'

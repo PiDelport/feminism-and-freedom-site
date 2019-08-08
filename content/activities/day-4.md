@@ -9,6 +9,7 @@ summary: |
     activism and acts of subversion in pursuit of freedom.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 4'

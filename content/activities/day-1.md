@@ -9,6 +9,7 @@ summary: |
     globally.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 1'
