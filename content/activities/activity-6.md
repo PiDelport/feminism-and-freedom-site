@@ -52,3 +52,9 @@ allocated to your group.
 ## 📖️ Handout
 
 * **[Waves of Feminism]({{< relref "waves-of-feminism.md" >}})**
+
+{{< figure src="/images/waves-of-feminism.jpg" >}}
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
+{{< load-photoswipe >}}
+{{< load-photoswipe-reparent-hack >}}
