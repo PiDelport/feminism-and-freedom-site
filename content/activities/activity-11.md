@@ -67,6 +67,11 @@ feminist tradition’s conceptions of freedom. These are:
 
 ***The presentation will run for 45 minutes***
 
+* *"Why queer theory"* slides as [PDF] or [PPTX]
+
+[PDF]: /documents/why-queer-theory.pdf
+[PPTX]: /documents/why-queer-theory.pptx
+
 ## Task 3
 
 In <u>**6 groups**</u> you will read the Huff Post article titled:
