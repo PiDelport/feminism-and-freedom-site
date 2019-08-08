@@ -94,3 +94,10 @@ end of this session.
 
 {{< figure src="/images/participant-quotes/kea.jpg" >}}
 {{< figure src="/images/participant-quotes/Precious.jpg" >}}
+
+## Additional videos
+
+{{< youtube wOYfK7BBLjw >}} <!-- #TotalShutDown WesternCape -->
+
+Crystal Dicks on women and patriarchy in the labour movement:
+{{< youtube Iivgg37rHOM >}} <!-- Patriarchy in the Trade Union Movement -->

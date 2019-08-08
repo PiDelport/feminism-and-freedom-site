@@ -112,3 +112,11 @@ discussion will conclude this session.
 ## Quotes
 
 {{< figure src="/images/participant-quotes/MJ.jpg" >}}
+
+## Additional videos
+
+{{< vimeo 186425342 >}} <!-- Asanda Benya - The Invisible Hands: Women in Marikana -->
+
+{{< vimeo 219864192 >}} <!-- Natasha Vally: Insecurity in South African Social Security -->
+
+{{< vimeo 183814590 >}} <!-- Vashna Jagarnath - Pan Africanism and Feminism -->

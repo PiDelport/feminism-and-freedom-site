@@ -62,6 +62,10 @@ Aktion*) and a moving exhibition.
 <!-- https://github.com/liwenyip/hugo-easy-gallery#-gallery--shortcode-usage -->
 {{< gallery dir="/images/activity-10/slides" caption-position="none" />}}
 
+## Additional videos
+
+{{< vimeo 237617452 >}} <!-- Katy Turton: Women in the Russian Revolution -->
+
 <!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
 {{< load-photoswipe >}}
 {{< load-photoswipe-reparent-hack >}}
