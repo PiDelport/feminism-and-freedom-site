@@ -45,8 +45,8 @@ evaluate a good or bad argument?
 ## Task
 
 You will be divided into <u>**6 groups**</u>. Each group will read the
-Peter Beinart article *The new authoritarians are waging a war on
-women* from The Atlantic Jan/Feb 2019.
+Peter Beinart article *[The New Authoritarians Are Waging War on Women]*
+from The Atlantic Jan/Feb 2019.
 
 In your groups prepare a presentation to plenary that covers the
 following:
@@ -71,4 +71,7 @@ presentation.
 
 ## 📖️ Reading
 
-* Peter Beinart, *The New Authoritarians are Waging a War on Women*, The Atlantic Jan/Feb 2019
+* Peter Beinart, *[The New Authoritarians Are Waging War on Women]*, The Atlantic Jan/Feb 2019
+
+[The New Authoritarians Are Waging War on Women]:
+https://www.theatlantic.com/magazine/archive/2019/01/authoritarian-sexism-trump-duterte/576382/
