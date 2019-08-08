@@ -1,8 +1,9 @@
 ---
 widget: "blank"
-headless: true  # This file represents a page section.
+headless: true
 
-title: 'Introduction'
+title: 'About this course'
+weight: 20
 
 design:
   columns: "1"
@@ -35,3 +36,5 @@ This module aims to answer these questions:
 1. How does feminism help us to defend freedom?
 2. How does feminism give us expanded notions of freedom?
 3. How does feminism give us insights that are neglected in other traditions?
+
+**Next: [Course outline](#outline)**

@@ -4,12 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Outline"
+  url = "#outline"
+  weight = 10
+
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 20
+
+[[main]]
   name = "Activities"
   url = "/activities/"
-  weight = 10
+  weight = 30
 
 [[main]]
   name = "Readings"
   url = "/readings/"
-  weight = 20
+  weight = 40
 
