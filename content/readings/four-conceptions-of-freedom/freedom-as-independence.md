@@ -114,4 +114,6 @@ colonised together in one polity. For Senghor and Cesaire, colonial
 independence was not synonymous with freedom. They promoted a form of
 anti-colonial cosmopolitan that reconciled and reconstituted different worlds.
 
-Source: Dave Kennedy, *Decolonisation: A Very Short Introduction*, 2016
+{{% alert secondary %}}
+This is an edited excerpt from Dave Kennedy (2016) *Decolonisation: A Very Short Introduction*.
+{{% /alert %}}
