@@ -7,6 +7,7 @@ summary: |
     that each conception brings to the fore.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 3'

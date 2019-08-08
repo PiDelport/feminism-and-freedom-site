@@ -8,6 +8,7 @@ summary: |
     understanding and definition of feminism.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 2'

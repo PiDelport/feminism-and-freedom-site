@@ -9,6 +9,7 @@ summary: |
     today.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 5'

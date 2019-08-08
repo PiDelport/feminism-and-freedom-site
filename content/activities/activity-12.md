@@ -7,6 +7,7 @@ summary: |
     consider the challenges within and possible solutions to this
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 4'

@@ -7,6 +7,7 @@ summary: |
     movements.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 3'

@@ -7,6 +7,7 @@ summary: |
     Cooper of UCT.
 
 type: docs
+toc: false
 menu:
   activities:
     parent: 'Day 5'

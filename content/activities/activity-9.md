@@ -7,6 +7,7 @@ summary: |
     challenged, broadened and enriched ideas about freedom.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 3'

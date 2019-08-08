@@ -7,6 +7,7 @@ summary: |
     poster of the wave your reading group explored.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 2'

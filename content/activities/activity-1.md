@@ -8,6 +8,7 @@ summary: |
     and inequality by investigating a series of case studies.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 1'

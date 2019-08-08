@@ -8,6 +8,7 @@ summary: |
     state of freedom and women in South Africa today.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 1'

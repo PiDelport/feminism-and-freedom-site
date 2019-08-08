@@ -7,6 +7,7 @@ summary: |
     conception of freedom under scrutiny and has highlighted its blind-spots.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 4'

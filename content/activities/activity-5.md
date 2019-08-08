@@ -9,6 +9,7 @@ summary: |
     feminism today and what the future of feminism holds.
 
 type: docs
+toc: true
 menu:
   activities:
     parent: 'Day 2'
