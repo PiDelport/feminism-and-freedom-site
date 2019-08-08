@@ -12,26 +12,28 @@ weight: 801
 > *“Freedom for the ex-slaves would mean the freedom to possess and till their
 > own soil, to labour for themselves and their families, with no constraints
 > other than their own self-defined needs, and to sell and dispose of the
-> products of their labour in their own interests”*
+> products of their labour in their own interests”* (Carolyn Fick, 2007)
 
-The Haitian Revolution has often been described as the largest and most
+"The Haitian Revolution has often been described as the largest and most
 successful slave rebellion in the Western Hemisphere. Slaves initiated the
 rebellion in 1791 and by 1803 they had succeeded in ending not just slavery but
-French control over the colony. On 1 January 1804, the Haitian Revolution
+French control over the colony."[^1] On 1 January 1804, the Haitian Revolution
 culminated in the birth of the world’s first republic that was led by former
-slaves. The Haitian Revolution, however, was much more complex, consisting of
-several revolutions going on simultaneously. The complexity reflected the
+slaves. "The Haitian Revolution, however, was much more complex, consisting of
+several revolutions going on simultaneously."[^1] The complexity reflected the
 social composition of Haitian society and the different competitive interests
 over the control of the island. The French fought over Haiti and so did the
 British and the Spanish. The majority of the population on the island was made
-up of the African slaves. The rest were the “small whites ” who were artisans
+up of the African slaves. The rest were the “small whites”[^1] who were artisans
 and hairdressers, “big whites” or the planter class that owned the agricultural
 estates or plantations and the “mixed race” population known as the *mulatto*.
-The series of events in Haiti were also influenced by the French Revolution
+The series of events in Haiti were also "influenced by the French Revolution
 of 1789, which would come to represent a new concept of human rights, universal
-citizenship, and participation in government. In the course of the 13 years of
+citizenship, and participation in government."[^1] In the course of the 13 years of
 Haitian revolution, three different conceptions of freedom emerged. We shall
 deal with these in turn.
+
+[^1]: Claudia Sutherland, (16 July 2007) [Haitian Revolution (1791 – 1804)](https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/)
 
 <!-- Paragraph source: https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/ -->
 
