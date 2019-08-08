@@ -34,8 +34,14 @@ makes in conversation with the feminist tradition.
 ## Task 1
 
 Working in buzz groups, you will be given a character card describing
-an individual and their way of life. Familiarise yourself with the
-character and answer the following questions:
+an individual and their way of life.
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#-gallery--shortcode-usage -->
+{{< gallery dir="/images/activity-11" caption-position="none" />}}
+
+* **[Character cards as PDF](/documents/gender-character-cards.pdf)**
+
+Familiarise yourself with the character and answer the following questions:
 
 * What is notable about your character and what does the
 character’s lifestyle reveal about their sex and gender?
@@ -93,3 +99,7 @@ South Africa today.
 
 [queer-theory]: https://www.researchgate.net/publication/309474236_How_has_queer_theory_influenced_the_ways_we_think_about_gender
 [queer-theory-pdf]: /documents/How_has_queer_theory_influenced_the_ways_we_think_.pdf
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
+{{< load-photoswipe >}}
+{{< load-photoswipe-reparent-hack >}}
