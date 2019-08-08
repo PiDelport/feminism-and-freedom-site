@@ -118,3 +118,11 @@ a constitutional government can be put in place, political pluralism that is
 guaranteed by the existence of multiple competing political parties or
 organisations and the separation of powers by having a separate executive,
 judiciary and legislature
+
+{{% alert secondary %}}
+
+Unless otherwise indicated, this section was put together from Andrew Heywood (2017)
+Political Ideologies: an Introduction – sixth edition, Chapter 2 (Liberalism) Palgrave
+Mcmillan
+
+{{% /alert %}}
