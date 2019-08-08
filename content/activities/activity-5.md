@@ -67,7 +67,7 @@ consideration in the next task.
 
 ***We will have 45 minutes for concluding task 1***
 
-## Videos: All About Women 2018
+### Videos: All About Women 2018
 
 Barbara Caine on first wave feminism:
 {{< youtube HWp-DoFnL6Y >}} <!-- Barbara Caine on first wave feminism | all about women 2018 -->
@@ -138,7 +138,7 @@ readings/information if required.
 
 ----
 
-## Instructions
+### Instructions
 
 In your <u>**reading group**</u>, complete the two readings allocated to your
 group, using the highlighters provided to highlight points that you
