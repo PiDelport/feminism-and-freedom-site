@@ -69,12 +69,12 @@ The facilitator will wrap up this activity with a ***45 minutes
 <u>presentation</u>*** on the four conceptions of freedom and their origins
 and linking the presentation to the charters produced.
 
-> 📖️ Please refer to the reading pack
->
-> * [Freedom as political rights and equality]({{< relref "rights-and-equality" >}})
-> * [Freedom with social and economic dimensions]({{< relref "social-and-economic-freedom" >}})
-> * [Freedom as emancipation from slavery]({{< relref "freedom-and-slave-emancipation" >}})
-> * [Freedom as independence from colonial rule]({{< relref "freedom-as-independence" >}})
+## 📖️ Readings
+
+* [Freedom as political rights and equality]({{< relref "rights-and-equality" >}})
+* [Freedom with social and economic dimensions]({{< relref "social-and-economic-freedom" >}})
+* [Freedom as emancipation from slavery]({{< relref "freedom-and-slave-emancipation" >}})
+* [Freedom as independence from colonial rule]({{< relref "freedom-as-independence" >}})
 
 <!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
 {{< load-photoswipe >}}

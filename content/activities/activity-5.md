@@ -162,20 +162,20 @@ On completing the readings, answer the following questions:
 will not be an immediate report back on this. But do keep your
 responses safe!***
 
-> 📖️ Please refer to the reading pack
->
-> * [History of Women’s struggle in South Africa][history-women-sa]
-    (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
-    (SA History Online)
-> * Srila Roy (Undated)
->   [Women’s Movements in the Global South]
->   (https://link.springer.com/article/10.1007/s10767-016-9226-6)
-> * [Combahee River Collective Statement]
->   (https://combaheerivercollective.weebly.com/the-combahee-river-collective-statement.html)
->   (1997)
-> * Samora Machel (1973)
->   [Women’s Liberation is Essential for the Revolution]
->   (https://www.historyisaweapon.com/defcon1/machelfundamentalemancipation.html)
+## 📖️ Readings
+
+* [History of Women’s struggle in South Africa][history-women-sa]
+  (as [PDF][history-women-sa-pdf], [DOCX][history-women-sa-docx])
+  (SA History Online)
+* Srila Roy (Undated)
+  [Women’s Movements in the Global South]
+  (https://link.springer.com/article/10.1007/s10767-016-9226-6)
+* [Combahee River Collective Statement]
+  (https://combaheerivercollective.weebly.com/the-combahee-river-collective-statement.html)
+  (1997)
+* Samora Machel (1973)
+  [Women’s Liberation is Essential for the Revolution]
+  (https://www.historyisaweapon.com/defcon1/machelfundamentalemancipation.html)
 
 [history-women-sa]: https://www.sahistory.org.za/article/history-womens-struggle-south-africa
 [history-women-sa-pdf]: /documents/history-womens-struggle-south-africa.pdf

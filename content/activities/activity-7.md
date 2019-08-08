@@ -52,13 +52,13 @@ We will conclude this session with a ***40 minutes*** plenary
 presentation, consolidating the ideas of freedom generated through
 the group work.
 
-> 📖️ Please refer to the reading pack
->
-> * [Oh freedom!]({{< relref "oh-freedom-lyrics" >}})
->   by The Golden Gospel Singers
-> * [Freedom is a constant struggle!]({{< relref "freedom-is-a-constant-struggle-lyrics" >}})
->   Civil Rights Movement
-> * [Mayibuye!]({{< relref "mayibuye" >}})
->   by Miriam Makeba
-> * [Redemption Song]({{< relref "redemption-song" >}})
->   by Bob Marley
+## 📖️ Readings
+
+* [Oh freedom!]({{< relref "oh-freedom-lyrics" >}})
+  by The Golden Gospel Singers
+* [Freedom is a constant struggle!]({{< relref "freedom-is-a-constant-struggle-lyrics" >}})
+  Civil Rights Movement
+* [Mayibuye!]({{< relref "mayibuye" >}})
+  by Miriam Makeba
+* [Redemption Song]({{< relref "redemption-song" >}})
+  by Bob Marley

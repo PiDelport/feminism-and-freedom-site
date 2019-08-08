@@ -69,7 +69,6 @@ to the rest of the class.
 The facilitator will wrap this discussion up with a quick
 presentation.
 
-> 📖️ Please refer to the reading pack
->
-> * Peter Beinart, *The New Authoritarians are Waging
-> a War on Women*, The Atlantic Jan/Feb 2019
+## 📖️ Reading
+
+* Peter Beinart, *The New Authoritarians are Waging a War on Women*, The Atlantic Jan/Feb 2019

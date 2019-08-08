@@ -126,11 +126,9 @@ The facilitator will <u>**synthesise**</u> your inputs, emerging with a
 consolidated definition and an elaboration on feminism
 today.
 
-> 📖️ Please refer to the reading pack
->
-> * Motta, Flesher Fominaya, Eschle, Cox (2011).
->   Feminism, women’s movements and women in
->   movement.
-> * Fraser, Bhattacharya, Arruzza (2018). Feminism
-    for the 99%: A Manifesto
-> * bell hooks (2004). Understanding Patriarchy
+## 📖️ Readings
+
+* Motta, Flesher Fominaya, Eschle, Cox (2011).
+  Feminism, women’s movements and women in movement.
+* Fraser, Bhattacharya, Arruzza (2018). Feminism for the 99%: A Manifesto
+* bell hooks (2004). Understanding Patriarchy
