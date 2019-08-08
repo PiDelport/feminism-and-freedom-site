@@ -23,7 +23,8 @@ googleAnalytics = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+# XXX: hugo-easy-gallery seems to have to be before hugo-academic for shortcode lookup to work?
+theme = ["hugo-easy-gallery", "hugo-academic"]
 
 # Get last modified date for content from Git?
 enableGitInfo = true
