@@ -154,9 +154,11 @@ the start of the 13-year revolution. They were given concrete meaning in the
 course of struggle and determined by the social forces on either side of the
 rebellion.
 
-----
+{{% alert secondary %}}
 
-This is a summary of the arguments made in the article:
-Fick, C, “The Haitian Revolution and the Limits of Freedom:
-Defining Citizenship in a Revolutionary Era”,
-Social History, Vol 32, No.4, November 2007.
+Unless indicated otherwise, this is a summary of the arguments summary
+(which includes direct quotations) made in the article:
+Carolyn Fick “The Haitian Revolution and the Limits of Freedom: Defining
+Citizenship in a Revolutionary Era”, Social History, Vol 32, No.4, November 2007.
+
+{{% /alert %}}
