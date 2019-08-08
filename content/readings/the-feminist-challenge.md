@@ -122,6 +122,39 @@ Women have experiences that are gendered and these experiences, alongside
 experiences shaped by race and class, inform women’s participation in national
 liberation politics.
 
-<!-- ## Africans don’t do gender? -->
+## Works consulted/cited
 
-<!-- TODO: Add paragraph? -->
+* Angela Davis (1981) Women, Race and Class, Random House.
+
+* Cathia Jenainati and Judy Groves (2010) ‘Introducing Feminism: A Graphic Guide’, Icon Books.
+
+* Frances Rogan and Shelley Budgeon (2018), ‘The Personal is Political: Assessing Feminist
+Fundamentals in the Digital Age’, Soc. Sci.
+
+* Jo Beall, Shireen Hassim, and Alison Todes, (1987)
+“[‘A Bit on the Side’?: Gender Struggles in the Politics of Transformation in South Africa]
+(http://transformationjournal.org.za/wp-content/uploads/2017/02/423-376-1-PB.pdf)”,
+Transformation, 5, pp. 3 – 32
+
+* Jo Beall, Shireen Hassim, and Alison Todes, (2011)
+“[We are all radical feminists now: reflections on ‘A bit on the side’]
+(http://transformationjournal.org.za/wp-content/uploads/2017/04/T75_Part11.pdf)” 
+
+* Keeanga-Yamahtta Taylor (2019) ‘Black Feminism and the Combahee River Collective’, Monthly
+Review.
+
+* Kumari Jayawardena (1986 / 2016)
+    '[Feminism and Nationalism in the Third World]
+    (https://www.versobooks.com/blogs/4018-feminism-and-nationalism-in-the-third-world)',
+    Zed Books/Verso Press.
+
+    Also see Pat Horn (1991) ‘Marxism and Feminism: Uneasy Bedfellows?’ African Communist, 3 rd Quarter, pp. 10-20.
+
+* Robin D G Kelley (2002) Freedom Dreams: the Black Radical Imagination, Chapter 5
+(“The battlefield called life: black feminist dreams).
+
+* Thithi Bhattacharya (2017) ‘Introduction: Mapping Social Reproduction Theory’ in her Social
+Reproduction Theory, Pluto Press.
+
+* Zine Magubane (2016) ‘Domains of Freedom: Justice, Citizenship and Social Change in South Africa,
+Chapter 7 ‘The Politics of Women and Gender in the ANC: Reflecting Back on 20 Years’, UCT Press.
