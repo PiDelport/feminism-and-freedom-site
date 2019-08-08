@@ -39,6 +39,9 @@ authoritarianism, inequality and technology. This activity uses
 recent case studies to assess the position of women and the
 LGBTIQ community in society today.
 
+<!-- https://github.com/liwenyip/hugo-easy-gallery#-gallery--shortcode-usage -->
+{{< gallery dir="/images/activity-1" caption-position="none" />}}
+
 ## Task
 
 Working in seven <u>**small groups**</u>, you are tasked with studying a
@@ -102,3 +105,7 @@ freedoms.
 ### Group 7
 [They endured domestic violence and now they’re victims of austerity]
 (https://www.theguardian.com/commentisfree/2017/jan/26/endured-domestic-violence-victims-austerity-sunderland)
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
+{{< load-photoswipe >}}
+{{< load-photoswipe-reparent-hack >}}
