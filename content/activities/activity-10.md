@@ -42,9 +42,26 @@ who put forward socialist visions for the new world order.
 
 ## Speaker bios
 
-Ingrid Sharp is Professor of German Cultural and Gender History and Corinne
-Painter is a cultural historian and lecturer at Leeds University (UK). Their research
-aims to write revolutionary women into historical accounts and public
-commemorative activities of the German Revolution and the end of WWI. This
-research has been used in the production of a 2018 play (*Women of Aktion*) and a
-moving exhibition.
+{{< figure
+src="/images/activity-10/Ingrid-Sharp.jpg"
+caption="Ingrid Sharp is Professor of German Cultural and Gender History."
+>}}
+
+{{<
+figure src="/images/activity-10/Corinne-Painter.jpg"
+caption="Corinne Painter is a cultural historian and lecturer at Leeds University (UK)."
+>}}
+
+Their research aims to write revolutionary women into historical accounts and
+public commemorative activities of the German Revolution and the end of WWI.
+This research has been used in the production of a 2018 play (*Women of
+Aktion*) and a moving exhibition.
+
+## Slides
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#-gallery--shortcode-usage -->
+{{< gallery dir="/images/activity-10/slides" caption-position="none" />}}
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
+{{< load-photoswipe >}}
+{{< load-photoswipe-reparent-hack >}}
