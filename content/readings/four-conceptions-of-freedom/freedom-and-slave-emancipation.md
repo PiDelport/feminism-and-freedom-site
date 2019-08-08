@@ -35,8 +35,6 @@ deal with these in turn.
 
 [^1]: Claudia Sutherland, (16 July 2007) [Haitian Revolution (1791 – 1804)](https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/)
 
-<!-- Paragraph source: https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/ -->
-
 ### 1. Freedom from above - emancipation without property
 
 The first conceptions of freedom emerged from above and specifically from the
