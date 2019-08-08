@@ -60,6 +60,9 @@ Please refer to the handout for an example of a workers’ charter.
 ***You will have 1 hour to conclude this group work and 30
 minutes for the report back.***
 
+<!-- https://github.com/liwenyip/hugo-easy-gallery#-gallery--shortcode-usage -->
+{{< gallery dir="/images/activity-8" caption-position="none" />}}
+
 ----
 
 The facilitator will wrap up this activity with a ***45 minutes
@@ -72,3 +75,7 @@ and linking the presentation to the charters produced.
 > * [Freedom with social and economic dimensions]({{< relref "social-and-economic-freedom" >}})
 > * [Freedom as emancipation from slavery]({{< relref "freedom-and-slave-emancipation" >}})
 > * [Freedom as independence from colonial rule]({{< relref "freedom-as-independence" >}})
+
+<!-- https://github.com/liwenyip/hugo-easy-gallery#photoswipe-usage -->
+{{< load-photoswipe >}}
+{{< load-photoswipe-reparent-hack >}}
