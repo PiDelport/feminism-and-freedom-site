@@ -74,24 +74,22 @@ feminist tradition’s conceptions of freedom. These are:
 
 ## Task 3
 
-In <u>**6 groups**</u> you will read the Huff Post article titled:
-[Freedom for the Queer Community: ‘I struggle to imagine a safe space’][1]
-detailing queer experiences for South Africans today.
+ 1. In <u>**6 groups**</u> you will read the Huff Post article titled:
+    [Freedom for the Queer Community: ‘I struggle to imagine a safe space’]
+    (https://www.huffingtonpost.co.uk/2018/04/26/freedom-day-but-not-yet-uhuru-for-all_a_23421092/)
+    detailing queer experiences for South Africans today.
 
-[1]: https://www.huffingtonpost.co.uk/2018/04/26/freedom-day-but-not-yet-uhuru-for-all_a_23421092/
+    As a group outline how queer South Africans’ freedoms are limited
+    – referencing the article.
 
-1\. As a group outline how queer South Africans’ freedoms are limited
-– referencing the article.
+ 2. Then as a group read and reflect on Judith Butler's article:
+    [*The Backlash Against “gender ideology” must stop*]
+    (https://www.newstatesman.com/2019/01/judith-butler-backlash-against-gender-ideology-must-stop)
+    in the New Statesman, January 2019.
 
-Then as a group read and reflect on Judith Butler’s article:
-*[The Backlash Against “gender ideology” must stop][2]* in the New Statesman, January
-2019.
-
-[2]: https://www.newstatesman.com/2019/01/judith-butler-backlash-against-gender-ideology-must-stop
-
-2\. Using Butler’s argument discuss how Butler’s conception of freedom
-might widen possibilities for those fighting for queer freedoms in
-South Africa today.
+    Using Butler’s argument discuss how Butler’s conception of freedom
+    might widen possibilities for those fighting for queer freedoms in
+    South Africa today.
 
 ***You will have 45 minutes to read followed by a 30 minutes plenary session.***
 
