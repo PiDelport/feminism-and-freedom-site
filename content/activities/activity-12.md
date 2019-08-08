@@ -89,3 +89,8 @@ end of this session.
     ‘[The Longest War](/documents/the-longest-war.pdf)’.
 > * Desiree Lewis (2008)
     ‘[South Africa, African Feminism and the Challenge of Solidarity](/documents/african-feminism.pdf)’.
+
+## Quotes
+
+{{< figure src="/images/participant-quotes/kea.jpg" >}}
+{{< figure src="/images/participant-quotes/Precious.jpg" >}}

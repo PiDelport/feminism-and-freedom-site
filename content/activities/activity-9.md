@@ -109,3 +109,6 @@ discussion will conclude this session.
 
 * **[The Feminist Challenge]({{< relref "the-feminist-challenge" >}})**
 
+## Quotes
+
+{{< figure src="/images/participant-quotes/MJ.jpg" >}}
