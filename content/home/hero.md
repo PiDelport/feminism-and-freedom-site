@@ -8,7 +8,7 @@ weight: 1  # Order that this section will appear.
 title: "Feminism and Freedom"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: "rethinking-freedom-logo.png"
+hero_media: "feminism-and-freedom-logo.jpg"
 
 design:
   background:
