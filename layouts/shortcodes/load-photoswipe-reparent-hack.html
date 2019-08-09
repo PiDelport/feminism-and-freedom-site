@@ -1,0 +1,14 @@
+<script>
+  $(function () {
+    // Problem:
+    // hugo-easy-gallery's load-photoswipe shortcode generates the PhotoSwipe overlay container
+    // nested inside the page content, where it's limited by the surrounding stacking context,
+    // which means that its z-index isn't enough to lift it above the theme's navigation elements.
+    //
+    // Hacky solution:
+    // Reparent the PhotoSwipe overlay container to the outer body element on load.
+    // This takes it out of the nested stacking context, and lets  it overlay the page navigation.
+    //
+    $('.pswp').appendTo('body');
+  });
+</script>
