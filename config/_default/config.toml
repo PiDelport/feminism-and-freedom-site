@@ -16,7 +16,7 @@ baseurl = "https://feminism-and-freedom.tshisimani.org.za/"
 copyright = "&copy; 2019 Tshisimani Centre for Activist Education"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-147988137-1"
 
 ############################
 ## Advanced options below ##
